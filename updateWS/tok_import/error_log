@@ -1,0 +1,30 @@
+[06-Jan-2016 11:43:39 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/wormsign_hu/update/lib/db.php:8) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 56
+[06-Jan-2016 11:57:36 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/wormsign_hu/update/lib/db.php:8) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 56
+[20-Jan-2016 19:24:08 CET] PHP Fatal error:  Uncaught exception 'Dropbox\Exception_NetworkIO' with message 'Error executing HTTP request: error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure' in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Curl.php:69
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/RequestUtil.php(223): Dropbox\Curl->exec()
+#1 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Client.php(1379): Dropbox\RequestUtil::doGet('PHP-Example/1.0', 'dDqFEEioJ6EAAAA...', NULL, 'api.dropbox.com', '1/account/info', NULL)
+#2 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Client.php(157): Dropbox\Client->doGet('api.dropbox.com', '1/account/info')
+#3 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php(25): Dropbox\Client->getAccountInfo()
+#4 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Curl.php on line 69
+[20-Jan-2016 19:29:23 CET] PHP Warning:  require_once(lib/init.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 4
+[20-Jan-2016 19:29:23 CET] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'lib/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 4
+[20-Jan-2016 19:30:04 CET] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: open_basedir restriction in effect. File(/../lib/init.php) is not within the allowed path(s): (/home/-www/wormsign.hu/htdocs:/usr/share/php:/var/lib/php5:/tmp) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 4
+[20-Jan-2016 19:30:04 CET] PHP Warning:  require_once(/../lib/init.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: Operation not permitted in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 4
+[20-Jan-2016 19:30:04 CET] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/../lib/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 4
+[20-Jan-2016 19:30:50 CET] PHP Fatal error:  Uncaught exception 'Dropbox\Exception_NetworkIO' with message 'Error executing HTTP request: error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure' in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Curl.php:69
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/RequestUtil.php(223): Dropbox\Curl->exec()
+#1 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Client.php(1379): Dropbox\RequestUtil::doGet('PHP-Example/1.0', 'V6XVvuVhmwEAAAA...', NULL, 'api.dropbox.com', '1/account/info', NULL)
+#2 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Client.php(157): Dropbox\Client->doGet('api.dropbox.com', '1/account/info')
+#3 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php(25): Dropbox\Client->getAccountInfo()
+#4 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/dropbox-sdk/Dropbox/Curl.php on line 69
+[20-Jan-2016 19:43:57 CET] PHP Fatal error:  Uncaught SoapFault exception: [Client] Function ("getFile") is not a valid method for this service in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php:29
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php(29): SoapClient->__call('getFile', Array)
+#1 /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php(29): SoapClient->getFile('/Tokotveszek/te...', Resource id #24)
+#2 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 29
+[20-Jan-2016 19:45:41 CET] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/tok_import/get_tok_prices_csv.php on line 31

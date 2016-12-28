@@ -1,0 +1,13 @@
+[15-Feb-2016 12:08:21 CET] PHP Warning:  require_once(../lib/init.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 4
+[15-Feb-2016 12:08:21 CET] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../lib/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 4
+[15-Feb-2016 12:09:39 CET] PHP Warning:  require_once(../lib/init.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 4
+[15-Feb-2016 12:09:39 CET] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../lib/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 4
+[15-Feb-2016 12:10:35 CET] PHP Warning:  require_once(../lib/init.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 4
+[15-Feb-2016 12:10:35 CET] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../lib/init.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 4
+[15-Feb-2016 12:11:58 CET] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/-www/wormsign.hu/htdocs/kereso/update/customers/lib/db.php on line 4
+[15-Feb-2016 12:12:22 CET] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/-www/wormsign.hu/htdocs/kereso/update/customers/lib/db.php on line 4
+[07-Mar-2016 14:04:30 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php:45
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php(45): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/customers/customer_xml_to_sql.php on line 45

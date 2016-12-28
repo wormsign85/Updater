@@ -1,0 +1,65 @@
+[27-Dec-2016 21:34:40 CET] PHP Notice:  Undefined index: xmldata in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php on line 16
+[27-Dec-2016 21:34:40 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php:25
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php(25): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php on line 25
+[27-Dec-2016 21:39:13 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[27-Dec-2016 21:39:14 CET] PHP Notice:  Undefined index: xmldata in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php on line 16
+[27-Dec-2016 21:39:14 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php:25
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php(25): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php on line 25
+[27-Dec-2016 21:40:02 CET] PHP Notice:  Undefined index: xmldata in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php on line 16
+[27-Dec-2016 21:40:02 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php:25
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php(25): SimpleXMLElement->__construct('')
+#1 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/stocks_symbol.php on line 25
+[27-Dec-2016 21:45:34 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23
+[27-Dec-2016 21:48:32 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[27-Dec-2016 21:48:33 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[27-Dec-2016 21:48:33 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[27-Dec-2016 21:48:35 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[27-Dec-2016 21:48:35 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[27-Dec-2016 21:50:52 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[27-Dec-2016 21:50:53 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[27-Dec-2016 21:50:53 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[27-Dec-2016 21:50:55 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[27-Dec-2016 22:18:15 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[27-Dec-2016 22:18:16 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[27-Dec-2016 22:18:16 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[27-Dec-2016 22:18:18 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[27-Dec-2016 22:18:18 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[27-Dec-2016 22:18:18 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23
+[28-Dec-2016 10:00:01 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[28-Dec-2016 10:00:02 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[28-Dec-2016 10:00:02 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[28-Dec-2016 10:00:04 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[28-Dec-2016 10:00:04 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[28-Dec-2016 10:00:05 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23
+[28-Dec-2016 10:33:10 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[28-Dec-2016 10:33:11 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[28-Dec-2016 10:33:11 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[28-Dec-2016 10:33:12 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[28-Dec-2016 10:33:12 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[28-Dec-2016 10:33:13 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23
+[28-Dec-2016 10:33:13 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[28-Dec-2016 10:33:14 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[28-Dec-2016 10:33:14 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[28-Dec-2016 10:33:16 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[28-Dec-2016 10:33:16 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[28-Dec-2016 10:33:16 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23
+[28-Dec-2016 12:41:18 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[28-Dec-2016 12:41:20 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[28-Dec-2016 12:41:20 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[28-Dec-2016 12:41:21 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[28-Dec-2016 12:41:21 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[28-Dec-2016 12:41:22 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23
+[28-Dec-2016 12:52:02 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral.php on line 19
+[28-Dec-2016 12:52:03 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 19
+[28-Dec-2016 12:52:03 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_1.php on line 50
+[28-Dec-2016 12:52:04 CET] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:30) in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 19
+[28-Dec-2016 12:52:04 CET] PHP Notice:  Undefined variable: row in /home/-www/wormsign.hu/htdocs/wormsign_hu/update/stock_upload_akkucentral_2.php on line 50
+[28-Dec-2016 12:52:05 CET] PHP Fatal error:  Cannot redeclare ata_mysql_query() (previously declared in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php:13) in /home/-www/wormsign.hu/htdocs/kereso/update/update_stock.php on line 23

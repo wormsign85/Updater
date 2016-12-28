@@ -1,0 +1,71 @@
+<Projects>
+  <Project Id="12">
+    <Name>Tax-Orientation Consulting Kft</Name>
+    <CategoryId>18</CategoryId> <!-- Ide a webshop CategoryId-jét kell magdni: 18 -->
+    <StatusId>Regisztrált</StatusId> <!-- Alapértelmezett státusz. Regisztrált / Hírlevél. A többi státuszban az ügyfél automatikusan mozog a rendelései alapján. -->
+    <UserId>Király Attila</UserId>
+    <Webshop_RegistrationDate>2014-10-01</Webshop_RegistrationDate>
+    <Webshop_Disabled />
+    <Webshop_LostBasketContent />
+    <Webshop_LostBasketDate />
+    <Webshop_LostBasketValue />
+    <Webshop_AllLostBasket />
+    <Business>
+      <Name>Tax-Orientation Consulting Kft</Name>
+      <Emails>
+        <Email>
+          <Value>jobalint10@gmail.com</Value>
+        </Email>
+      </Emails>
+    </Business>
+    <Contacts>
+      <Contact>
+        <FirstName>Tax-Orientation Consulting Kft</FirstName>
+        <LastName />
+        <Emails>
+          <Email>
+            <Value>jobalint10@gmail.com</Value>
+          </Email>
+        </Emails>
+      </Contact>
+    </Contacts>
+    <Orders>
+      <Order Id="20588100360"> <!-- Ez a mező csak integer lehet -->
+        <Number>20588-100360</Number>
+        <CurrencyCode>HUF</CurrencyCode>
+        <Performance>2014-10-01</Performance>
+        <Subject>123</Subject>
+        <Status>Issued</Status> <!-- Case-sensitive: Issued -->
+        <Customer>
+          <Name>Tax-Orientation Consulting Kft</Name>
+          <CountryId>Magyarország</CountryId>
+          <PostalCode>1149</PostalCode>
+          <City>Budapest, XIV.</City>
+          <Address>Pósa Lajos utca 40.</Address>
+        </Customer>
+        <Products>
+          <Product Id="17343">
+            <Name>Kodak KLIC-8000 1600 mAh utángyártott Li-ion akku</Name>
+            <SKU>17343</SKU>
+            <EAN />
+            <PriceNet>2385.8268</PriceNet>
+            <Quantity>1</Quantity>
+            <Unit>darab</Unit>
+            <VAT>27%</VAT>
+            <FolderName>Alap termék</FolderName>
+          </Product>
+          <Product Id="11">
+            <Name>Szállítási költség</Name>
+            <SKU>shipping-cost</SKU>
+            <EAN />
+            <PriceNet>1015.75</PriceNet>
+            <Quantity>1</Quantity>
+            <Unit>darab</Unit>
+            <VAT>27%</VAT>
+            <FolderName>Alap termék</FolderName>
+          </Product>
+        </Products>
+      </Order>
+    </Orders>
+  </Project>
+</Projects>

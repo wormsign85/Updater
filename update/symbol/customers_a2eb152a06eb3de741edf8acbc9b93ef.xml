@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomersUp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <id>3891</id>
+    <code>WEB5862822e4b5f1</code>
+    <customerstatus>1</customerstatus>
+    <supplierstatus>0</supplierstatus>
+    <name>Szerencsés László</name>
+    <searchname />
+    <invoicecountry>Magyarország</invoicecountry>
+    <invoiceregion />
+    <invoicezip>2060</invoicezip>
+    <invoicecity>Bicske</invoicecity>
+    <invoicestreet>Batthyány Lajos utca 16</invoicestreet>
+    <invoicehousenumber />
+    <mailcountry />
+    <mailregion />
+    <mailname>Szerencsés László</mailname>
+    <mailzip>2060</mailzip>
+    <mailcity>Bicske</mailcity>
+    <mailstreet>Batthyány Lajos utca 16</mailstreet>
+    <mailhousenumber />
+    <paymentmethod>Készpénz</paymentmethod>
+    <paymentmethodtoleranceday />
+    <pricecategory>-1</pricecategory>
+    <pricecategoryname>Lista ár</pricecategoryname>
+    <discountpercent>0</discountpercent>
+    <taxnumber />
+    <eutaxnumber />
+    <bankaccount />
+    <bankaccountiban />
+    <contactname />
+    <phone>+36208237030</phone>
+    <fax />
+    <sms />
+    <email>szerencseslaszlo1@gmail.com</email>
+    <webusername />
+    <webpassword />
+    <description />
+    <deleted>0</deleted>
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <customeraddresses>
+      <customeraddress>
+        <preferred>0</preferred>
+        <id>2177</id>
+        <code />
+        <name>Szerencsés László</name>
+        <country>Magyarország</country>
+        <region />
+        <zip>2060</zip>
+        <city>Bicske</city>
+        <street>Batthyány Lajos utca 16</street>
+        <housenumber />
+        <contactname>Szerencsés László</contactname>
+        <phone />
+        <fax />
+        <email />
+        <iscompany>0</iscompany>
+        <companytaxnumber />
+        <description />
+        <deleted>0</deleted>
+      </customeraddress>
+    </customeraddresses>
+  </Customer>
+</CustomersUp>
