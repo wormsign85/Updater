@@ -1,5 +1,5 @@
 <?php
-require_once 'lib/init.php';
+require_once '../../lib/init.php';
 /*
 $link = mysql_connect('localhost', 'wormsignh_worm', 'IxOn1985');
 if (!$link) {
@@ -17,8 +17,6 @@ function ata_mysql_query($sql, $link = null) {
     }
     return $result;
 }*/
-
-
 
 
 ata_mysql_query("UPDATE wormsignh_mydb.orders_items

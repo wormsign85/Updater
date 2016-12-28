@@ -1,10 +1,29 @@
 <?php
 
-require_once '../lib/init.php';
+$initfile = __DIR__ . '/../lib/init.php';
+if (file_exists($initfile)) {
+    // lokális
+    require_once $initfile;
+
+    $user = 'root';
+    $pass = '';
+} else {
+    // éles
+    require_once __DIR__ . '/../lib/init.php';
+
+    $user = 'wormsignh_worm';
+    $pass = 'IxOn1985';
+
+//    require_once '../orders/get_orders.php';
+//
+//    require_once '../customers/get_customers.php';
+}
+
+
 set_time_limit(600);
 //connect to the database 
 try {
-    $conn = new PDO($config_db_wormsign['connection'], $config_db_wormsign['username'], $config_db_wormsign['password']);
+    $conn = new PDO($config_db_stock['connection'], $config_db_stock['username'], $config_db_stock['password']);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 } catch (PDOException $e) {
     print "Error!: " . $e->getMessage() . "<br/>";
@@ -48,10 +67,9 @@ $sqlutf = "set names 'utf8'";
 $sth = $conn->prepare($sqlutf);
 $statement = $sth->execute();
 
-$sql = "UPDATE wormsignh_wormsign_hu.tps_webshop SET"
-        . " keszlet=:keszlet, keszletdate = current_timestamp,"
-        . " keszlet_new=:keszlet, keszletdate_new = current_timestamp"
-        . " WHERE cameron_sku = :sku1 OR cameron_sku = :sku2";
+$sql = " UPDATE full_stock SET"
+        . " kp_quantity=:keszlet, kp_modified = current_timestamp "
+        . " WHERE cameron_sku = :sku1 OR cameron_sku = :sku2 ";
 
 
 foreach ($stocks1->termekek->termek as $prods => $termek) {
@@ -61,87 +79,14 @@ foreach ($stocks1->termekek->termek as $prods => $termek) {
     $q = $conn->prepare($sql);
     $q->execute(array(
         ':keszlet' => $keszlet,
-        ':keszlet_new' => $keszlet,
         ':sku1' => $sku,
         ':sku2' => 'CS-' . $sku // CS- előtaggal is találja meg
     ));
 }
-
-$sql1 = "UPDATE wormsignh_wormsign_hu.tps_webshop_new SET"
-        . " keszlet=:keszlet, keszletdate = current_timestamp,"
-        . " keszlet_new=:keszlet, keszletdate_new = current_timestamp"
-        . " WHERE cameron_sku = :sku1 OR cameron_sku = :sku2";
-
-
-foreach ($stocks1->termekek->termek as $prods => $termek) {
-    $sku = $termek->termek_sku;
-    $keszlet = $termek->keszlet;
-
-    $q = $conn->prepare($sql1);
-    $q->execute(array(
-        ':keszlet' => $keszlet,
-        ':keszlet_new' => $keszlet,
-        ':sku1' => $sku,
-        ':sku2' => 'CS-' . $sku // CS- előtaggal is találja meg
-    ));
-}
-
-//$sql1 = " UPDATE wormsignh_wormsign_hu.tps_webshop_img SET"
-//        . " keszlet=:keszlet, keszletdate = current_timestamp,"
-//        . " WHERE cameron_sku = :sku2";
-//
-//foreach ($stocks1->termekek->termek as $prods => $termek) {
-//    $sku = $termek->termek_sku;
-//    $keszlet = $termek->keszlet;
-//
-//    $q = $conn->prepare($sql1);
-//    $q->execute(array(
-//        ':keszlet' => $keszlet,
-//        ':sku2' => 'CS-' . $sku // CS- előtaggal is találja meg
-//    ));
-//}
-//echo '<br/><br/>Kapacitás készlet és ár importálása <br/><br/>';
-
-
-/*
-  $result = ata_mysql_query("UPDATE wormsignh_wormtest.tps_webshop
-  SET elerhetoseg=IF(keszlet_kapac>=0,'Külső készleten - 5 munkanap','')
-  ");
-
-  $result = ata_mysql_query("UPDATE wormsignh_wormsign_hu.tps_webshop
-  SET active=IF(keszletdate_new<'" . date('Y-m-d H:i:s', time() - 1 * 24 * 3600) . "','0','1')
-  WHERE kapac_category!=''
-  ");
- */
-
-//$result = ata_mysql_query("UPDATE wormsignh_wormsign_hu.tps_webshop_new pp"
-//        . " INNER JOIN wormsignh_wormsign_hu.tps_webshop w ON(pp.cameron_sku=w.cameron_sku)"
-//        . " SET pp.keszlet=w.keszlet, pp.keszletdate = w.keszletdate  "
-//);
-
-$result = ata_mysql_query("UPDATE wormsignh_wormsign_hu.tps_webshop
-  SET active=1
-  WHERE kapac_category!=''
-  ");
-
-$result = ata_mysql_query("UPDATE wormsignh_wormsign_hu.tps_webshop
-  SET active=IF(keszletdate_new<'" . date('Y-m-d H:i:s', time() - 1 * 24 * 3600) . "','0','1')
-  WHERE kapac_category!=''
-  ");
 
 //$result = ata_mysql_query("UPDATE wormsignh_wormsign_hu.tps_webshop
-//  SET leiras_hosszu='<p>Vállaljuk nagy mennyiségű ólom akkumulátorok szállítását, telepítését is.</p>
-//<p>&nbsp; </p>
-//<p>Amennyiben gyári adatlapra, specifikációkra van szüksége kérem, jelezze ezt nekünk a cikkszám megjelölésével.</p>
-//<p>Ha műszaki kérdése merülne fel, készséggel állunk rendelkezésére! </p>'
-//  WHERE kapac_category LIKE '%ólom%'
+//  SET vasarolhato_ha_nincs_raktaron='1'
+//  WHERE megnevezes LIKE '%felújítás%' OR megnevezes LIKE '%pakk%'
 //  ");
 
-$result = ata_mysql_query("UPDATE wormsignh_wormsign_hu.tps_webshop
-  SET vasarolhato_ha_nincs_raktaron='1'
-  WHERE megnevezes LIKE '%felújítás%' OR megnevezes LIKE '%pakk%'
-  ");
-
-//
-require_once '../stock_upload_akkucentral.php';
-require_once '../stock_upload_akkucentral_1.php';
+require_once '../stock/unas/upload_stock.php';

@@ -1,6 +1,6 @@
 <?php
 
-require_once 'lib/init.php';
+require_once '../lib/init.php';
 
 function get_customer_unas($client, $config, $config_db) {
     try {
@@ -96,13 +96,8 @@ function get_customer_unas($client, $config, $config_db) {
     }
 }
 
-//echo 'akkutkeresek';
-//get_customer_unas($client, $config['akkutkeresek']);
-//get_customer_unas($client, $config['akkucentral']);
+get_customer_unas($client, $config['akkucentral'], $config_db);
 
-
-get_customer_unas($client, $config['akkucentral'],$config_db);
-//get_customer_unas($client, $config['akkutkeresek'],$config_db);
 
 //require_once 'update_pro_sku.php';
 

@@ -1,6 +1,6 @@
 <?php
 
-require_once 'lib/init.php';
+require_once '../../lib/init.php';
 
 ///////////////////////////////////////////////
 // init
@@ -27,7 +27,7 @@ function get_orders_unas($client, $config, $config_db) {
 
     try {
 
-        $conn = new PDO($config_db['connection'], $config_db['username'], $config_db['password']);
+        $conn = new PDO($config_db_my['connection'], $config_db_my['username'], $config_db_my['password']);
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (PDOException $e) {
         print "Error!: " . $e->getMessage() . "<br/>";

@@ -1,8 +1,7 @@
 <?php
 //header('content-type: text/xml');
-//require_once ('get_orders.php');
 
-$initfile = __DIR__ . '/../ujverzio/haffner/lib/init.php';
+$initfile = __DIR__ . '/lib/init.php';
 if (file_exists($initfile)) {
     // lokális
     require_once $initfile;
@@ -16,14 +15,14 @@ if (file_exists($initfile)) {
     $user = 'wormsignh_worm';
     $pass = 'IxOn1985';
 
-    require_once 'get_orders.php';
+    require_once '../orders/get_orders.php';
 
-    require_once 'get_customers.php';
+    require_once '../customers/get_customers.php';
 }
 
 
     try {
-        $conn = new PDO($config_db_my['connection'], $config_db_my['username'], $config_db_my['password']);
+        $conn = new PDO($config_db['connection'], $config_db['username'], $config_db['password']);
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (PDOException $e) {
         print "Error!: " . $e->getMessage() . "<br/>";
@@ -43,9 +42,9 @@ $vasarlok = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8" ?><Custom
 
 foreach ($customers as $i => $row) {
     $customer = $vasarlok->addChild('Customer');
-    $feedbackurl = $customer->addChild('feedbackurl', 'http://kereso.wormsign.hu/update/symbol/customer_feedbackurl.php?id='
+    $feedbackurl = $customer->addChild('feedbackurl', 'http://update.wormsign.hu/update/customer_feedbackurl.php?id='
             . $row['id'] . '&amp;text=');
-    $errorurl = $customer->addChild('errorurl', 'http://kereso.wormsign.hu/update/symbol/customer_error.php?errorid='
+    $errorurl = $customer->addChild('errorurl', 'http://update.wormsign.hu/update/customer_error.php?errorid='
             . $row['id'] . '&amp;text=');
     $id = $customer->addChild('id',$row['unas_id']);
     $sid = $customer->addChild('sid',$row['sid']);
@@ -102,9 +101,9 @@ $customers = $sth->fetchAll();
 
 foreach ($customers as $i => $row) {
     $customer = $vasarlok->addChild('Customer');
-    $feedbackurl = $customer->addChild('feedbackurl', 'http://kereso.wormsign.hu/update/symbol/customer_feedbackurl.php?id='
+    $feedbackurl = $customer->addChild('feedbackurl', 'http://update.wormsign.hu/update/customer_feedbackurl.php?id='
             . $row['id'] . '&amp;text=');
-    $errorurl = $customer->addChild('errorurl', 'http://kereso.wormsign.hu/update/symbol/customer_error.php?errorid='
+    $errorurl = $customer->addChild('errorurl', 'http://update.wormsign.hu/update/customer_error.php?errorid='
             . $row['id'] . '&amp;text=');
     $id = $customer->addChild('id',$row['id']);
     $sid = $customer->addChild('sid',$row['sid']);
