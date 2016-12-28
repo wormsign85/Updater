@@ -1,0 +1,6159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>29159</id>
+    <code>2058549527</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-55 12V 55Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-55</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29160</id>
+    <code>2058549528</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-65 12V 65Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-65</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29161</id>
+    <code>2058549529</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-65H 12V 65Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-65H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29162</id>
+    <code>2058549530</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-75 12V 75Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-75</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29163</id>
+    <code>2058549531</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-75H 12V 75Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-75H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29164</id>
+    <code>2058549532</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-100 12V 100Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-100</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29165</id>
+    <code>2058549533</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-100H 12V 100Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-100H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29166</id>
+    <code>2058549534</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-120 12V 120Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-120</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29167</id>
+    <code>2058549535</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-120H 12V 120Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-120H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29168</id>
+    <code>2058549536</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA6-180 6V 180Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA6-180</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29169</id>
+    <code>2058549537</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-55F 12V 55Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-55F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29170</id>
+    <code>2058549538</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-110F 12V 110Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-110F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29171</id>
+    <code>2058549539</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-105F 12V 105Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-105F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29172</id>
+    <code>2058549540</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-150F 12V 150Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-150F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29173</id>
+    <code>2058549541</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-185F 12V 185Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-185F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29174</id>
+    <code>2058549542</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT1290D 12V 9Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT1290D</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29175</id>
+    <code>2058549543</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT12140EV 12V 14Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT12140EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29176</id>
+    <code>2058549544</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT12220EV 12V 22Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT12220EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29177</id>
+    <code>2058549545</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT12240EV 12V 24Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT12240EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29178</id>
+    <code>2058549546</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT12260EV 12V 26Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT12260EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29179</id>
+    <code>2058549547</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-60EV 12V 60Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-60EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29180</id>
+    <code>2058549548</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-200EV 12V 200Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-200EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29181</id>
+    <code>2058549549</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-75DG 12V 75Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-75DG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29182</id>
+    <code>2058549550</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-90DG 12V 90Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-90DG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29183</id>
+    <code>2058549551</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-100DG 12V 100Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Jármű meghajtás</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-100DG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>7</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29184</id>
+    <code>2058549552</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT02D-2420-JACK 24V 2A akkutöltő zárt ólomakkumulátorokhoz</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Akkutöltők zárt akkukhoz</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT02D-2420-JACK</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>10</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29185</id>
+    <code>2058549553</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT05D-3630-JACK 36V 3A akkutöltő zárt ólomakkumulátorhoz</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Akkutöltők zárt akkukhoz</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT05D-3630-JACK</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>10</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29186</id>
+    <code>2058549554</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT05D-3630-3POL 36V 3A akkutöltő zárt ólomakkumulátorhoz</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Akkutöltők zárt akkukhoz</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT05D-3630-3POL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>10</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29187</id>
+    <code>2058549555</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT05D-4830-3POL 48V 3A akkutöltő zárt ólomakkumulátorhoz</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Akkutöltők zárt akkukhoz</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT05D-4830-3POL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>10</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29188</id>
+    <code>2058549556</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT02D-1230 12V 3A akkutöltő zárt ólomakkumulátorhoz</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Akkutöltők zárt akkukhoz</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT02D-1230</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>10</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29189</id>
+    <code>2058549557</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT05D-12100 12V 10A akkutöltő zárt ólomakkumulátorhoz</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Akkutöltők zárt akkukhoz</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT05D-12100</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>10</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29190</id>
+    <code>2058549506</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT632 6V 3,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT632</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29191</id>
+    <code>2058549507</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT645 6V 4,5Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT645</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29192</id>
+    <code>2058549511</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT1223 12V 2,3Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT1223</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29193</id>
+    <code>2058549512</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT1232 12V 3,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT1232</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29194</id>
+    <code>2058549523</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT12280L-FLAT 12V 28Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT12280L-FLAT</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29195</id>
+    <code>2058549525</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-40 12V 40Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-40</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29196</id>
+    <code>2058549526</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-45 12V 45Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-45</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29197</id>
+    <code>2058549450</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RA12-45EV 12V 45Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / Ciklikus akkumulátorok</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RA12-45EV</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>45Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>9</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29198</id>
+    <code>2058549513</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT1245E 12V 4,5Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT1245E</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29199</id>
+    <code>2058550163</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross duál autós USB töltő MicroUSB töltő spirálkábellel, 2,1 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-CARUSBMICRO</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29200</id>
+    <code>2058550164</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Európából Ausztráliába utazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-EUTOAU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29201</id>
+    <code>2058550165</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Európából Svájcba utazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-EUTOCH</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29202</id>
+    <code>2058550166</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Európából Olaszországba utazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-EUTOIT</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29203</id>
+    <code>2058550167</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Európából az Egyesült Királyságokba beutazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-EUTOUK</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29204</id>
+    <code>2058550168</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Európából az Amerikai Egyesült Államokba utazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-EUTOUSA</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29205</id>
+    <code>2058550169</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross duál hálózati USB töltő 2,1 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-EUUSB</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29206</id>
+    <code>2058550170</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Indiából, Izraelből, Dániából Európába utazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-INDISRDENTOEU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29207</id>
+    <code>2058550171</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross MicroUSB / USB töltő és szinkronkábel.</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-MICROUSBCABLE</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29208</id>
+    <code>2058550172</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross duál világjáró USB töltő minden földeletlen hálózathoz 1,3 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-MUVUSB</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29209</id>
+    <code>2058550173</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross Reload12 12Ah akkumulátor USB/microUSB kábellel, két kimenettel</name>
+    <barcode />
+    <productcategory>Akkuk és Töltők / PowerBank külső akkuk</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-RELOAD12</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>29</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29210</id>
+    <code>2058550174</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross Reload5 5Ah akkumulátor USB/microUSB kábellel, két kimenettel</name>
+    <barcode />
+    <productcategory>Akkuk és Töltők / PowerBank külső akkuk</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-RELOAD5</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>29</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29211</id>
+    <code>2058550175</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross USB tartalék akkumulátor</name>
+    <barcode />
+    <productcategory>Akkuk és Töltők / PowerBank külső akkuk</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-SOSBATTERY</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>29</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29212</id>
+    <code>2058550177</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>SKROSS SKR-WORLDCLASS Adapter Classic</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDCLASS</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29213</id>
+    <code>2058550178</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross World Adapter EVO földeletlen hálózati csatlakozó átalakító</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDEVO</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29214</id>
+    <code>2058550179</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross World Adapter Pro a legbiztonságosabb földelt hálózati csatlakozó átalakító a világ 150+ orsz</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDPRO</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29215</id>
+    <code>2058550180</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>SKROSS SKR-WORLDPROPLUSUSB Adapter PRO+USB</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDPROPLUSUSB</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29216</id>
+    <code>2058550182</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter Európába beutazóknak.</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDTOEU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29217</id>
+    <code>2058550183</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross hálózati adapter és USB töltő Európába beutazóknak</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDTOEUUSB</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29218</id>
+    <code>2058550184</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross duál világjáró USB töltő minden hálózathoz 1,3 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / Utazó adapterek, átalakítók</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-WORLDUSB</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>13</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29219</id>
+    <code>2058550144</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-RA1212PG1 12V 12Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-RA1212PG1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29220</id>
+    <code>2058550145</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P127R2P 12V 7,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P127R2P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29221</id>
+    <code>2058550146</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P127R2P1 12V 7,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P127R2P1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29222</id>
+    <code>2058550147</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-XD1217PG 12V 17Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-XD1217PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29223</id>
+    <code>2058550148</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P1224APG 12V 24Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P1224APG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29224</id>
+    <code>2058550149</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P1228AP 12V 28Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P1228AP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29225</id>
+    <code>2058550150</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P1238APG 12V 38Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P1238APG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29226</id>
+    <code>2058550151</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P1242AP 12V 42Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P1242AP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29227</id>
+    <code>2058550152</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P12150BP 12V 150Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P12150BP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29228</id>
+    <code>2058550153</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P12200BP 12V 200Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P12200BP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29229</id>
+    <code>2058550154</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-CA1215P1 12V 15Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-CA1215P1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29230</id>
+    <code>2058550155</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-XC1222AP 12V 22Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-XC1222AP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29231</id>
+    <code>2058550156</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-XC1238AP 12V 38Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-XC1238AP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29232</id>
+    <code>2058550157</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic UP-VWA1232P2 12V 192W zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>UP-VWA1232P2</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29233</id>
+    <code>2058550126</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R063R4P 6V 3,4Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R063R4P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29234</id>
+    <code>2058550127</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R064R5P 6V 4,5Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R064R5P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29235</id>
+    <code>2058550128</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R067R2P 6V 7,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R067R2P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29236</id>
+    <code>2058550129</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R0612P 6V 12 Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R0612P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29237</id>
+    <code>2058550130</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R121R3PG 12V 1,3Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R121R3PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29238</id>
+    <code>2058550131</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R122R2PG 12V 2,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R122R2PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29239</id>
+    <code>2058550132</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R123R4PG 12V 3,4Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R123R4PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29240</id>
+    <code>2058550133</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-V1233P 12V 33Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-V1233P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29241</id>
+    <code>2058550134</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-X1265PG 12V 65Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-X1265PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29242</id>
+    <code>2058550135</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P1275P 12V 75Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P1275P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29243</id>
+    <code>2058550136</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-XB12100P 12V 100Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-XB12100P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29244</id>
+    <code>2058550137</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-P12120P 12V 120Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-P12120P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29245</id>
+    <code>2058550138</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic UP-VW1220P1 12V 120W zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>UP-VW1220P1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29246</id>
+    <code>2058550139</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic UP-VW1245P1 12V 270W zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>UP-VW1245P1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29247</id>
+    <code>2058550140</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R0612P1 6V 12 Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R0612P1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29248</id>
+    <code>2058550141</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R127R2PG 12V 7,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R127R2PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29249</id>
+    <code>2058550142</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R127R2PG1 12V 7,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R127R2PG1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29250</id>
+    <code>2058550143</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-RA1212PG 12V 12Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 12 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-RA1212PG</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>12V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>8</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29251</id>
+    <code>2058550125</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic LC-R061R3P 6V 1,3Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>LC-R061R3P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29252</id>
+    <code>2058553110</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic NC1900SCR 1,2V 1900mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>NC1900SCR</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1900mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29253</id>
+    <code>2058553111</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta 3V150H 1,2V 15mAh Ni-MH akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-3V150H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>15mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29254</id>
+    <code>2058553112</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta 3V80H-2 1,2V 80mAh Ni-MH akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-3V80H-2</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>80mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29255</id>
+    <code>2058553160</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL760/P 3,6V 2,2Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL760-P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2,2Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29256</id>
+    <code>2058553158</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL760/S 3,6V 2,2Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL760-S</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2,2Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29257</id>
+    <code>2058553157</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL761/PR 3,6V 1,5Ah 2/3AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL761-PR</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1,5Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29258</id>
+    <code>2058553159</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL760/T 3,6V 2,2Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL760-T</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2,2Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+</Products>

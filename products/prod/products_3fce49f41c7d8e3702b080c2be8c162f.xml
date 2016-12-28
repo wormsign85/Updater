@@ -1,0 +1,5585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>3821</id>
+    <code>4865T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V-os Ni-cd 2Ah akkumulátor felújítás</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3822</id>
+    <code>20141220001</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>2,4V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3823</id>
+    <code>20141220002</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>3,6V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3824</id>
+    <code>20141220003</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>4,8V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3825</id>
+    <code>20141220004</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>6V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3826</id>
+    <code>20141220005</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>7,2V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3827</id>
+    <code>20141220006</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>8,4V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3828</id>
+    <code>20141220007</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>9,6V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3829</id>
+    <code>20141220008</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>10,8V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3830</id>
+    <code>20141220009</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3831</id>
+    <code>20141220010</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>13,2V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3832</id>
+    <code>20141220011</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3833</id>
+    <code>20141220012</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>15,6V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3834</id>
+    <code>20141220013</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>16,8V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3835</id>
+    <code>20141220014</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>18V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3836</id>
+    <code>20141220015</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>19,2V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3837</id>
+    <code>20141220016</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>20,4V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3838</id>
+    <code>20141220017</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>21,6V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3839</id>
+    <code>20141220018</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>24V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3840</id>
+    <code>20141220019</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>36V Ni-Cd felújított akkumulátor 2 Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3841</id>
+    <code>20141220020</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>2,4V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3842</id>
+    <code>20141220021</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>3,6V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3843</id>
+    <code>20141220022</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>4,8V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3844</id>
+    <code>20141220023</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>6V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3845</id>
+    <code>20141220024</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>7,2V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3846</id>
+    <code>20141220025</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>8,4V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3847</id>
+    <code>20141220026</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>9,6V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3848</id>
+    <code>20141220027</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>10,8V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3849</id>
+    <code>20141220028</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3850</id>
+    <code>20141220029</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>13,2V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3851</id>
+    <code>20141220030</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3852</id>
+    <code>20141220031</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>15,6V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3853</id>
+    <code>20141220032</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>16,8V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3854</id>
+    <code>20141220033</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>18V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3855</id>
+    <code>20141220034</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>19,2V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3856</id>
+    <code>20141220035</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>20,4V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3857</id>
+    <code>20141220036</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>21,6V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3858</id>
+    <code>20141220037</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>24V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3859</id>
+    <code>20141220038</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>36V Ni-Mh felújított akkumulátor 3Ah(SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3860</id>
+    <code>20141220039</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>2,4V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3861</id>
+    <code>20141220040</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>3,6V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3862</id>
+    <code>20141220041</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>4,8V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3863</id>
+    <code>20141220042</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>6V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3864</id>
+    <code>20141220043</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>7,2V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3865</id>
+    <code>20141220044</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>8,4V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3866</id>
+    <code>20141220045</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>9,6V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3867</id>
+    <code>20141220046</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>10,8V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3868</id>
+    <code>20141220047</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3869</id>
+    <code>20141220048</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>13,2V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3870</id>
+    <code>20141220049</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3871</id>
+    <code>20141220050</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>15,6V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3872</id>
+    <code>20141220051</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>16,8V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3873</id>
+    <code>20141220052</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>18V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3874</id>
+    <code>20141220053</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>19,2V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3875</id>
+    <code>20141220054</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>20,4V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3876</id>
+    <code>20141220055</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>21,6V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3877</id>
+    <code>20141220056</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>24V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3878</id>
+    <code>20141220057</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>36V Ni-Cd felújított akkumulátor 1,2Ah (4/5SC)</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-cd</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Akkucentral</name>
+        <value>1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3931</id>
+    <code>5335T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V li-ion felújított akkumulátor 2Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3932</id>
+    <code>5336T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V li-ion felújított akkumulátor 4Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3933</id>
+    <code>5337T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>18V li-ion akkumulátor felújítva 4Ah</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3934</id>
+    <code>5338T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>36V li-ion felújított akkumulátor 2Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3935</id>
+    <code>5339T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V li-ion felújított akkumulátor 4Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3936</id>
+    <code>5340T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>36V li-ion akkumulátor felújítva 4Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3937</id>
+    <code>5342T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V li-ion felújított akkumulátor 2Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3938</id>
+    <code>5343T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>18V li-ion felújított akkumulátor 2Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3939</id>
+    <code>5344T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>3,6V li-ion felújított akkumulátor 2Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3940</id>
+    <code>5345T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>7,2V li-ion felújított akkumulátor</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3941</id>
+    <code>5346T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V li-ion akkumulátor felújítva Hilti</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3942</id>
+    <code>5347T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>18V Milwaukee akkumulátor felújítva 3Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>3943</id>
+    <code>5348T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>28V Milwaukee akkumulátor felújítva 3Ah</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>4035</id>
+    <code>5514T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>14,4V li-ion akku felújítva IMR-26650 3500mAh</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Li-ion</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>4037</id>
+    <code>5546T</code>
+    <suppliercode>4872SZ</suppliercode>
+    <isacc>0</isacc>
+    <accproduct />
+    <name>15,6V Ni-Mh felújított akkumulátor 3Ah(SC) BK-300SCP Panasonic cellából</name>
+    <barcode />
+    <productcategory>Akkumulátor felújítás / Ni-Mh</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>4</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>25492</id>
+    <code>43011T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>12V Nicd akkumulátor felújítva Panasonic 2,5Ah cellákból</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28065</id>
+    <code>46940T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>10,8V Li-Ion 2 Ah (18650) felújított akkumulátor</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28066</id>
+    <code>46941T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>21,6V Li-Ion 2 Ah (18650) felújított akkumulátor</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28067</id>
+    <code>46942T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>21,6V Li-Ion 4 Ah (18650) felújított akkumulátor</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>3</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28936</id>
+    <code>2058549505</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Ritar RT612 6V 1,2Ah zárt ólomakkumulátor</name>
+    <barcode />
+    <productcategory>Zárt ólomakkumulátorok / 6 V helyhez kötött akkuk</productcategory>
+    <manufacturer>Ritar</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RT612</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1,2Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>6</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28937</id>
+    <code>2058550162</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross duál autós Lightning és USB töltő spirálkábellel, 2 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-CARUSBLIGHTNING</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28938</id>
+    <code>2058550161</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross duál autós USB töltő 2 x 1 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-CARUSBDUAL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28939</id>
+    <code>2058550159</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>SKROSS SKR-CARCABLE Autós töltő felcsévélhető káb.</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-CARCABLE</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28940</id>
+    <code>2058550160</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross autós USB töltő 2,1 Amper</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-CARUSB</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28941</id>
+    <code>2058553162</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL760/PT 3,6V 2,2Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL760-PT</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2,2Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28942</id>
+    <code>2058550158</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Skross 2az1-ben MicroUSB és Lightning / USB szinkron és töltőkábel, Apple minősített.</name>
+    <barcode />
+    <productcategory>Áramellátás / USB töltők, tápok</productcategory>
+    <manufacturer>SKROSS</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SKR-2IN1CABLE</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>12</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28943</id>
+    <code>2058553056</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta CRAA-CD 3 V 2000 mAh AA méretű ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-CRAA-CD</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28944</id>
+    <code>2058553057</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BR-2/3A-N 3 V 1200 mAh A méretű ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>BR2-3AN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1200mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28945</id>
+    <code>2058553073</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VL2330HFN 3 V forrfüles tölthető lítium gombakku</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Lítium gombakkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VL2330HFN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>50mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>21</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28946</id>
+    <code>2058553146</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL550/S 3,6V 0,8Ah 1/2AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL550-S</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>0,8Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28947</id>
+    <code>2058553147</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL550/P 3,6V 0,8Ah 1/2AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL550-P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>0,8Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28948</id>
+    <code>2058553148</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL560/S 3,6V 1,7Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL560-S</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1,7Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28949</id>
+    <code>2058553149</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL560/PT 3,6V 1,7Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL560-PT</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1,7Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28950</id>
+    <code>2058553150</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL750/S 3,6V 1,1Ah 1/2AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL750-S</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1,1Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28951</id>
+    <code>2058553074</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BR2032/BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>BR2032-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>200mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28952</id>
+    <code>2058553092</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic N3000CR 1,2V 3000mAh C Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>N3000CR</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>3200mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28953</id>
+    <code>2058553093</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VHD9500 1,2V 9500mAh Ni-MH akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Saft</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VHD9500</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>9500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28954</id>
+    <code>2058553094</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VNT DH 1,2V 4250mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Saft</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VNTDH</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>4250mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28955</id>
+    <code>2058553095</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VNT-C 1,2V 2650mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari Akku Cellák / Ipari cellák</productcategory>
+    <manufacturer>Saft</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VNT-C</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2650mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>25</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28956</id>
+    <code>2058553096</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VNTCS1600 1,2V 1600mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Saft</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VNTCS1600</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1600mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28957</id>
+    <code>2058553161</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL760/PR 3,6V 2,2Ah AA ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL760-PR</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2,2Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>28958</id>
+    <code>2058553196</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK CR14250SE-AX lítium elem axiális huzalkivez</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR14250SE-AX</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>850mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+</Products>
