@@ -1,0 +1,5319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>14224</id>
+    <code>20571431</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14225</id>
+    <code>20571432</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-80 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP80FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14226</id>
+    <code>20571433</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>JVC BN-V101 1850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP100FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14227</id>
+    <code>20571434</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-120 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP120FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14228</id>
+    <code>20571435</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sharp AD-S30BT 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BP800</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14229</id>
+    <code>20571442</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sanyo DB-L80 740 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-DBL80</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14230</id>
+    <code>20571447</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Casio NP-150 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI50B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14231</id>
+    <code>20571448</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Olympus Li-80B 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP900</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14232</id>
+    <code>20571449</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Hitachi 02491-0028-01 1250 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PRD8330</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14233</id>
+    <code>20571457</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L1237 1230 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SBL1237</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14234</id>
+    <code>20571458</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-80 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP80FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14235</id>
+    <code>20571459</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L0737 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP40FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14236</id>
+    <code>20571460</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Casio NP-40 950 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP40CA</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14237</id>
+    <code>20571462</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14238</id>
+    <code>20571463</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Olympus Li-80B 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP900</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14239</id>
+    <code>20571496</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Motorola SNN5582B 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MOT720SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14240</id>
+    <code>20572197</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Siemens SBPP0025001 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LKE590SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14241</id>
+    <code>20572313</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Siemens EBA-710 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SCL75SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14242</id>
+    <code>20572366</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Motorola SNN5828 950 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-GX32SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14243</id>
+    <code>20572454</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kyocera TXBAT10050 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-KE414SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14244</id>
+    <code>20572462</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sanyo SCP-37LBPS 1200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-KYM600SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14245</id>
+    <code>20572467</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sanyo SCP-48LBPS 1650 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-KY4233SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14246</id>
+    <code>20572478</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-5C 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK5CML</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14247</id>
+    <code>20572479</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-5C 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK5CMX</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14248</id>
+    <code>20572483</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Alcatel CAB3010010C1 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-OT505SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14249</id>
+    <code>20572484</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Alcatel CAB31L0004C1 900 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-OT891SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14250</id>
+    <code>20572487</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sagem 287079530 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MY501SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14251</id>
+    <code>20572513</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Hagenuk CP10 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-HFC250SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14252</id>
+    <code>20572559</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Audiovox BTR-8030 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-AU8030SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14253</id>
+    <code>20572571</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Vodafone Li3708T42P3h553447 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-ZTC88SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14254</id>
+    <code>20572573</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Vodafone Li3715T42P3h654251 1500 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-ZTU230SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14255</id>
+    <code>20572650</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Egyéb 333585 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-CKA100SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14256</id>
+    <code>20572660</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Vodafone HBU83S 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-HUM318SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14257</id>
+    <code>20572669</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Vodafone HB5B2 880 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-HUV860SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14258</id>
+    <code>20572736</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Hagenuk CP10 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-HFC250SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14259</id>
+    <code>20572738</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Auro M912 900 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-OYV130SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14260</id>
+    <code>20572740</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Hagenuk CP10 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-HFC250SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14261</id>
+    <code>20572746</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Auro M451 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-ARM401SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14262</id>
+    <code>20572759</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-4C 550 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4CSL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14263</id>
+    <code>20572760</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-4C 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4CXL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14264</id>
+    <code>20572761</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-4C 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4CHL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14265</id>
+    <code>20572762</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BP-4L 1500 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4LSL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14266</id>
+    <code>20572763</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BP-4L 1700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4LXL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14267</id>
+    <code>20572764</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-4D 950 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4DSL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14268</id>
+    <code>20572765</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-4D 1200 mAh utángyártott LI-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK4DXL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14269</id>
+    <code>20572766</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia BL-6F 1200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NK6FSL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14270</id>
+    <code>20572938</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Lawmate RD2400A-BAT 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-RD2400SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14271</id>
+    <code>20572945</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>JNC PPCW0401 1100 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SFM3SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14272</id>
+    <code>20572949</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>JNC PPCW0401 1100 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SFM3SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14273</id>
+    <code>20572951</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Rio TY02 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-TY02SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14274</id>
+    <code>20572970</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung 990216 2000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PXM2SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14275</id>
+    <code>20572974</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Lawmate RD2400A-BAT 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-RD2400SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14276</id>
+    <code>20572975</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple 616-0232 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-IPOD60ML</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14277</id>
+    <code>20572978</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Pioneer EPNN8774A 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-XM2SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14278</id>
+    <code>20551474</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Audiovox Audiovox SMT5700 1200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-AT5700SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14279</id>
+    <code>20551475</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Audiovox Audiovox SMT5700 2200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-AT5700XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14280</id>
+    <code>26838T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>LP504045 li-po cella 3,7V</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14281</id>
+    <code>26839T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>LP3595110 li-po cella 4000mAh 3,7V</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14347</id>
+    <code>2058535305</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Asus ZenFone C (ZC451CG) hátlap képernyővédő fóliával - Nillkin Frosted Shield - fekete</name>
+    <barcode />
+    <productcategory>Telefon hátlapok|Nillkin|Nillkin Frosted Shield|Asus</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>NL227762</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14449</id>
+    <code>27025T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sennheiser BA150, BA151, WEST-BA151, CPH-522 utángyrátott akku 2,4V 60mAh Ni-Mh</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>CS-SBA150SL</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>14451</id>
+    <code>27117T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Dewalt utángyártott akku Panasonic cellával 2,5Ah</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14452</id>
+    <code>27119T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>INR18650-29E Samsung 2,9Ah cella</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14489</id>
+    <code>2058541697</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Xiaomi Redmi 2, Oldalra nyíló tok, fekete</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Xiaomi</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>53175</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-53175</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>14517</id>
+    <code>2058536407</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Univerzális tok, mappa tok, XXL méret, Blautel 4-OK, nanopadszerű rögzítés, rózsaszín</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Univerzális</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>43617</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>FUIPPK</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>14567</id>
+    <code>2058544166</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Univerzális tok, oldalra nyíló tok, XXL méret, Guess Scarlet, nanopadszerű rögzítés, piros</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Univerzális</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>56745</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GUBKMSCRE</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>15415</id>
+    <code>2058536844</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy Grand i9080 / Grand Neo i9060 / Grand Duos i9082, Oldalra nyíló tok, sötétkék</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Samsung</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>44734</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-44734</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>16012</id>
+    <code>2058541249</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy S6 Edge SM-G925, oldalra nyíló tok, fekete</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Samsung</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>52654</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-52654</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>16022</id>
+    <code>2058541331</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy S6 Edge SM-G925, Oldalra nyíló tok, Clear View Cover, fekete, gyári, EF-ZG925BBEGWW</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Samsung</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>52755</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>EF-ZG925BBEGWW</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>16490</id>
+    <code>2058543469</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy S5 SM-G900, Oldalra nyíló tok, színes bagolyminta, fehér</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Samsung</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>55649</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-55649</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>16959</id>
+    <code>2058541587</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia 225, Oldalra nyíló tok, csíkos, színes</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Nokia</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>53057</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-53057</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>17456</id>
+    <code>2058544138</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>LG G4, Oldalra nyíló tok, valódi bőrtok, fekete</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|LG</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>56708</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-56708</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>18428</id>
+    <code>2058540124</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPhone 6 Plus, oldalra nyíló tok, rózsaszín pillangóminta, fehér</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Apple</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>50929</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-50929</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>18499</id>
+    <code>2058541764</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPhone 5 / 5S, oldalra nyíló tok, Ferrari 458, fekete FE458FLBKP5BL</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Apple</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>53335</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>FE458FLBKP5BL</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>18512</id>
+    <code>2058541789</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPhone 5 / 5S, Oldalra nyíló tok, Ferrari 458, piros</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Apple</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>53361</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>FE458FLBKP5RE</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>18549</id>
+    <code>2058543746</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPhone 6 Plus, Oldalra nyíló tok, Guess Tessi, szegecses, fehér</name>
+    <barcode />
+    <productcategory>Telefon Tokok|Oldalra Nyitható Tokok|Apple</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>56117</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GUFLBKP6LSTW</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>18992</id>
+    <code>2058540740</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy Grand Prime SM-G530, TPU szilikon tok, fekete</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|Szilikon Hátlapok|Samsung</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>51915</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-51915</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>19667</id>
+    <code>2058539516</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Alcatel One Touch Idol 2S (6050Y), TPU szilikon tok, átlátszó magenta</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|Szilikon Hátlapok|Alcatel</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>50026</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-50026</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>20129</id>
+    <code>2058542648</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>HTC One E9 Plus, TPU szilikon tok, S-Line, kék</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|S-Line Hátlapok|HTC</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>54541</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-54541</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>20172</id>
+    <code>2058543216</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Alcatel One Touch Idol 3 4.7 (6039), TPU szilikon tok, S-Line, kék</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|S-Line Hátlapok|Alcatel</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>55310</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-55310</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>20901</id>
+    <code>2058538121</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nokia Lumia 930, Műanyag hátlap védőtok, UK</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|Mintás Hátlapok|Nokia</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>47604</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-47604</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>21038</id>
+    <code>2058540793</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>LG F60 D390, TPU szilikon tok, UK</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|Mintás Hátlapok|LG</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>51973</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-51973</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>21954</id>
+    <code>2058536178</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Alcatel OT-7041D / 7040, Pop C7, Műanyag hátlap védőtok, rózsaszín</name>
+    <barcode />
+    <productcategory>Telefon Hátlapok|Hátlapok|Alcatel</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>43040</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>26</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>GP-43040</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>23784</id>
+    <code>2058538624</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>LG G3, Védőkeret, Bumper, fekete</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>48709</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>BUMPER</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>23786</id>
+    <code>2058535233</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Lenovo A7000 képernyővédő fólia - 2 db/csomag (Crystal/Antireflex HD)</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23787</id>
+    <code>2058535064</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPad Mini/iPad Mini 2/iPad Mini 3 Tablet Tok, Kalaideng Ka, arany</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23788</id>
+    <code>2058535510</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sony Xperia M4 Aqua (E2303) képernyő- és hátlapvédő fólia - Made for Xperia Muvit - 2 db/csomag - an</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23790</id>
+    <code>2058534965</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Huawei P8 Lite képernyővédő fólia - 2 db/csomag (Crystal/Antireflex HD)</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23791</id>
+    <code>2058546166</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPhone 6, Képernyovédo fólia, ütésálló fólia, MyScreen Protector, AntiCrash, Clear</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23793</id>
+    <code>2058535000</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Apple iPhone 6 szilikon hátlap üveg képernyővédő fóliával, Kalaideng Air, kék</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23794</id>
+    <code>2058546374</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>LG Leon H340N / Leon C50, Kijelzovédo fólia, MyScreen Protector, Clear Prémium / Matt, ujjlenyomatme</name>
+    <barcode>GP-52873</barcode>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23795</id>
+    <code>08464</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Univerzális tok, Bugatti Slimfit, valódi bőr, XXXL méret, fekete</name>
+    <barcode>2058536040</barcode>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23796</id>
+    <code>2058546242</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy Ace 4 LTE SM-G357FZ / Ace NXT SM-G313H / Style SM-G310, Akkumulátor, EB-B130BE kompat</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23797</id>
+    <code>41041T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic 2000mAh HHRAAB3B akkupakk 4,8V Omron vérnyomásmérőbe</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23798</id>
+    <code>2058546209</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Huawei Ascend Mate 7, Kijelzovédo fólia, MyScreen Protector, Clear Prémium / Matt, ujjlenyomatmentes</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23799</id>
+    <code>2058548653</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Huawei P8 oldalra nyíló flipes tok - Nillkin Sparkle - fekete</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+    <productworldcodes>
+      <productworldcode>
+        <code>NL297611</code>
+      </productworldcode>
+    </productworldcodes>
+  </Product>
+  <Product>
+    <id>23800</id>
+    <code>20537</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Siemens C60 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23801</id>
+    <code>22709</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung BST4238SE 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23802</id>
+    <code>24625</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung AB803446BU 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23803</id>
+    <code>fejlesztes</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Akku.unas.hu webfejlesztés / adatbázis készítés / karbantartás</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>23804</id>
+    <code>2058546462</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung Galaxy K-Zoom SM-C115, Akkumulátor, 2430 mAh, Li-Ion, gyári, EB-BC115BBE</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+</Products>

@@ -1,0 +1,12 @@
+sku;voltage;10hr;length_mm;length_in;width_mm;width_in;height_mm;height_in;theight_mm;theight_in;Terminal;weight_kg;weight_pund;pdf
+CL100;2;100;171;6.73;72;2.83;206;8.11;211;8.31;F10;7.2;15.87;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL100.pdf
+CL150;2;150;172;6.77;102;4.02;205;8.07;217;8.54;F10;8.2;18.08;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL150.pdf
+CL200;2;200;173;6.81;111;4.37;330;12.99;364;14.33;F10;15.0;33.07;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL200.pdf
+CL300;2;300;171;6.73;151;5.94;330;12.99;364;14.33;F10;20.0;44.09;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL300.pdf
+CL400;2;400;210;8.27;176;6.93;330;12.99;367;14.45;F10;28.0;61.73;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL400.pdf
+CL500;2;500;242;9.53;173;6.81;330;12.99;365;14.37;F10;33.0;72.75;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL500.pdf
+CL600;2;600;302;11.89;175;6.89;330;12.99;367;14.45;F10;42.0;88.18;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL600.pdf
+CL800;2;800;410;16.14;175;6.89;330;12.99;367;14.45;F10;57.0;125.66;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL800.pdf
+CL1000;2;1000;475;18.70;175;6.89;328;12.99;367;14.45;F10;66.5;146.61;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL1000.pdf
+CL2000;2;2000;490;19.29;350;13.78;345;13.58;382;15.04;F10;132.0;291.01;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL2000.pdf
+CL3000;2;3000;710;27.95;350;13.78;345;13.58;382;15.04;F10;210.0;462.97;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CL3000.pdf

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Projects>
+  <!-- Id = Ügyfél külső rendszer (nem MiniCRM) azonosítója [kötelező] -->
+  <Project Id="1234">
+    <!-- Ügyfél neve. Ez lehet cég vagy személy név is. Ezzel a névvel fog megjenni az ügyfél a Webshop modul listájában. [kötelező] -->
+    <Name>Teszt Kft.</Name>
+    <!-- Webshop modul MiniCRM azonosítója [kötelező] -->
+    <CategoryId>20</CategoryId>
+    <!-- Alapértelmezett státusz. Regisztrált / Hírlevél. A többi státuszban az ügyfél automatikusan mozog a rendelései alapján. [kötelező] -->
+    <StatusId>Regisztrált</StatusId>
+    <!-- Ügyfélért felelős MiniCRM felhasználó neve. [opcionális] -->
+    <UserId>Keszei Csaba</UserId>
+    <!-- Regisztráció dátuma a webshopban. [opcionális] -->
+    <Webshop_RegistrationDate>2015-09-20 14:51:45</Webshop_RegistrationDate>
+    <!-- Letiltva/Törölve van-e a webshopban? [opcionális] -->
+    <Webshop_Disabled>1</Webshop_Disabled>
+    <!-- Utolsó elhagyott kosár tartalma. [opcionális] -->
+    <Webshop_LostBasketContent>Elős tétel, második tétel, harmadik tétel</Webshop_LostBasketContent>
+    <!-- Utolsó elhagyott kosár dátuma. [opcionális] -->
+    <Webshop_LostBasketDate>2015-09-23 12:43:27</Webshop_LostBasketDate>
+    <!-- Utolsó elhagyott kosár értéke. [opcionális] -->
+    <Webshop_LostBasketValue>12450</Webshop_LostBasketValue>
+    <!-- Összes eddigi elhagyott kosár értéke [opcionális] -->
+    <Webshop_AllLostBasket>28910</Webshop_AllLostBasket>
+    <!-- Legalább 1 darab cég (Business) vagy magánszemély (Contact) adat megadása kötelező. amennyiben cég és magánszemély is érkezik, a magészemélyek a céghez lesznek kapcsolva. -->
+    <Business>
+      <!-- Céghez további megadható adatok: http://www.minicrm.hu/help/xml-sync/#PldaXML -->
+      <Name>Teszt Kft.</Name>
+      <Emails>
+          <Email>
+              <Value>ceo@tesztkft.local</Value>
+          </Email>
+      </Emails>
+    </Business>
+    <Contacts>
+      <Contact>
+        <!-- Magánszemélyhez további megadható adatok: http://www.minicrm.hu/help/xml-sync/#PldaXML -->
+        <FirstName>Teszt</FirstName>
+        <LastName>József</LastName>
+        <Emails>
+          <Email>
+            <Value>teszt.jozsef@tesztkft.local</Value>
+          </Email>
+        </Emails>
+      </Contact>
+    </Contacts>
+    <Orders>
+      <!-- Id = Rendelés külső rendszer (nem MiniCRM) azonosítója [kötelező] -->
+      <Order Id="4321">
+        <!-- Rendelés száma, szabadszavas [kötelező] -->
+        <Number>Rendelés #4321</Number>
+        <!-- Rendelés pénzneme [kötelező] -->
+        <CurrencyCode>HUF</CurrencyCode>
+        <!-- Rendelés teljesítésének dátuma [kötelező] -->
+        <Performance>2015-09-22 12:15:13</Performance>
+        <!-- Megjegyzés a rendeléshez [opcionális] -->
+        <Subject>Ez egy teszt megjegyzés</Subject>
+        <!-- Rendelés állapota [kötelező]
+          Draft = Előkészítés
+          Issued = Folyamatban
+          Completed = Teljesítve
+          Paid = Sikeres
+          Failed = Sikertelen
+        -->
+        <Status>Paid</Status>
+        <!-- Megrendelő adatai -->
+        <Customer>
+          <!-- Megrendelő neve [kötelező] -->
+          <Name>Teszt József</Name>
+          <!-- Megrendelő országa [kötelező] -->
+          <CountryId>Magyarország</CountryId>
+          <!-- Megrendelő irányítószáma [kötelező] -->
+          <PostalCode>1042</PostalCode>
+          <!-- Megrendelő városa [kötelező] -->
+          <City>Budapest</City>
+          <!-- Megrendelő címe [kötelező] -->
+          <Address>Teszt Elek u. 94.</Address>
+        </Customer>
+        <!-- Termékek adatai -->
+        <Products>
+          <!-- Id = Termék külső rendszer (nem MiniCRM) azonosítója [kötelező] -->
+          <Product Id="1111">
+            <!-- Termék neve [kötelező] -->
+            <Name>Első termék</Name>
+            <!-- Termék SKU kódja [opcionális] -->
+            <SKU>ET-1234</SKU>
+            <!-- Termék EAN kódja [opcionális] -->
+            <EAN>1865489756485</EAN>
+            <!-- Termék nettó egységára [kötelező] -->
+            <PriceNet>1250</PriceNet>
+            <!-- Termék rendelt darabszáma [kötelező] -->
+            <Quantity>5</Quantity>
+            <!-- Termék mennyiségi egysége [kötelező] -->
+            <Unit>darab</Unit>
+            <!-- Termék ÁFAtartalma [kötelező] -->
+            <VAT>27%</VAT>
+            <!-- Termék mappája MiniCRM-ben. Amennyiben nincs ilyen mappa, automatikusan létrehozzuk. [kötelező] -->
+            <FolderName>Alap termékek</FolderName>
+          </Product>
+        </Products>
+      </Order>
+    </Orders>
+  </Project>
+</Projects>

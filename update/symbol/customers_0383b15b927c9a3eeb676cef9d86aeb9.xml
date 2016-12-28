@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomersUp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <id>3892</id>
+    <code>WEB5862cddfa0240</code>
+    <customerstatus>1</customerstatus>
+    <supplierstatus>0</supplierstatus>
+    <name>Tomor Miklós</name>
+    <searchname />
+    <invoicecountry>Magyarország</invoicecountry>
+    <invoiceregion />
+    <invoicezip>1195</invoicezip>
+    <invoicecity>Budapest, XIX.</invoicecity>
+    <invoicestreet>Viola u.15</invoicestreet>
+    <invoicehousenumber />
+    <mailcountry />
+    <mailregion />
+    <mailname>Tomor Miklós</mailname>
+    <mailzip>1195</mailzip>
+    <mailcity>Budapest, XIX.</mailcity>
+    <mailstreet>Viola u.15</mailstreet>
+    <mailhousenumber />
+    <paymentmethod>Készpénz</paymentmethod>
+    <paymentmethodtoleranceday />
+    <pricecategory>-1</pricecategory>
+    <pricecategoryname>Lista ár</pricecategoryname>
+    <discountpercent>0</discountpercent>
+    <taxnumber />
+    <eutaxnumber />
+    <bankaccount />
+    <bankaccountiban />
+    <contactname />
+    <phone>+36702866579</phone>
+    <fax />
+    <sms />
+    <email>miklostomor@gmail.com</email>
+    <webusername />
+    <webpassword />
+    <description />
+    <deleted>0</deleted>
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <customeraddresses>
+      <customeraddress>
+        <preferred>0</preferred>
+        <id>2176</id>
+        <code />
+        <name>Tomor Miklós</name>
+        <country>Magyarország</country>
+        <region />
+        <zip>1195</zip>
+        <city>Budapest, XIX.</city>
+        <street>Viola u.15</street>
+        <housenumber />
+        <contactname>Tomor Miklós</contactname>
+        <phone />
+        <fax />
+        <email />
+        <iscompany>0</iscompany>
+        <companytaxnumber />
+        <description />
+        <deleted>0</deleted>
+      </customeraddress>
+    </customeraddresses>
+  </Customer>
+</CustomersUp>

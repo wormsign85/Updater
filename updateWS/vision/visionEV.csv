@@ -1,0 +1,29 @@
+sku;voltage;20hr;25A_min;75A_min;length_mm;width_mm;height_mm;theight_mm;weight_kg;Terminal;Material;pdf
+EV627-205-X;6;205;1000;105;306.0;168.0 ;220.0;225.0 ;28.5;F11;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV627-205-X.pdf
+EVGC-220A-AM;6;220;460;120;260.0;180.0 ;254.0 ;274.0;30;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVGC-220A-AM.pdf
+EV6-240-AM;6;240;537;136;262.5;181.0 ;246.0;266.0;34.0;AM;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV6-240-AM.pdf
+EV6-260-X;6;260;580;150;322.5;178.0 ;225.5 ;230.5 ;36.0;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV6-260-X.pdf
+EV250-265A-AM;6;265;1325;168;295.0;180.0;274.0;296.0 ;36.0;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV250-265A-AM.pdf
+EVGT6-280A-AM;6;280;575;165;260.0;180.0;273.0;295.0;38.0;AM;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVGT6-280A-AM.pdf
+EV305-360A-AM;6;360;860;250;295.0;180.0;347.0;368.0;48.2 ;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV305-360A-AM.pdf
+EVL16-400A-AM;6;400;920;270;295.0;180.0;405.0 ;426.0 ;55.5;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVL16-400A-AM.pdf
+EVGC8-165A-AM;8;165;315;80;260.0;180.0;255.0 ;275.0 ;29;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVGC8-165A-AM.pdf
+EV8-200-AM;8;200;430;118;260.0;180.0;266.0;286.0;35.5 ;AM;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV8-200-AM.pdf
+EV8-200-X;8;200;430;118;260.0;180.0;266.0 ;271.0 ;35.5 ;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV8-200-X.pdf
+EVGT8-210A-X;8;210;1050;110;260.0;182.0;295.0 ;301.0;38.0;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVGT8-210A-X.pdf
+EV805-220-X;8;220;1110;130;260.0;180.0 ;347.0 ;368.0 ;45.8;F20;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV805-220-X.pdf
+EV816-295-X;8;295;1500;196;280.0;182.0;380.0;400.0 ;53.1;F26;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV816-295-X.pdf
+EVU1-34A-X;12;34;170;15;198.0;132.0;164.0 ;182.0;10.3 ;Q(X);PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVU1-34A-X.pdf
+EV22-58A-Q;12;58;290;30;230.0;138.0 ;205.0;211.0;16.0 ;Q;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV22-58A-Q.pdf
+EV34-65A-X;12;65;85;22;260.0;168.0 ;178.0;183.0;20.5;Q(X);PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV34-65A-X.pdf
+EV24-85A-AM;12;85;165;41;272.0;172.0;206.0 ;226.0;25.1 ;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV24-85A-AM.pdf
+EV27-100A-AM;12;100;195;53;323.0;172.0;206.0 ;226.0;29.5;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV27-100A-AM.pdf
+EV31-115A-AM;12;115;228;63;330.0;169.0;216.0;236.0;33.6 ;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV31-115A-AM.pdf
+EVGT12-127A-X;12;127;630;68;260.0;182.0;295.0;300.0 ;40.5;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EVGT12-127A-X.pdf
+EV12-130-X;12;130;248;68;330.0 ;172.0;213.0;220.0;33.5 ;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV12-130-X.pdf
+EV12-140A-AM;12;140;650;70;327.0;176.0 ;254.0;274.0;39.6;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV12-140A-AM.pdf
+EV12-160-X;12;160;315;84;408.0;176.0;227.0;227.0;38.5;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV12-160-X.pdf
+EV12-190-X;12;190;400;100;482.5;170.5;238.5;238.5;50.5;F12;ABS;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV12-190-X.pdf
+EV4D-240A-AT;12;240;560;155;528.0;222.0 ;229.0;250.0;64.6;AT;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV4D-240A-AT.pdf
+EV185-250A-AM;12;250;560;160;386.0;180.0;346.0;367.0;66.5;AM;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV185-250A-AM.pdf
+EV8D-330A-AT;12;330;740;210;528.0 ;282.0 ;229.0;250.0;82.9;AT;PP;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/EV8D-330A-AT.pdf

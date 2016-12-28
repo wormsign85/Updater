@@ -1,0 +1,4559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>29262</id>
+    <code>2058553084</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BK200SCP NiMh akkumulátor (HHR20SCP)</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>HHR20SCP-BK200SCP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29263</id>
+    <code>2058553085</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BK260SCP 1,2V 2450mAh SC Ni-MH ipari akkumulátor (HHR-260SCP)</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>HHR26SCP-BK260SCP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2700mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29264</id>
+    <code>2058553086</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BK300SCP 1,2V 2800mAh SC Ni-MH ipari akkumulátor (HHR-300SCP)</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>HHR30SCP-BK300SCP</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>3000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29265</id>
+    <code>2058553174</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL886XOL 3,6V 1,7Ah 1/6D ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL886XOL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1,7Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29266</id>
+    <code>2058553175</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL889XOL 3,6V 1Ah 1/10D ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL889XOL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29267</id>
+    <code>2058553176</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RP-SC2000 1,2V 2000mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>RP</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RP-SC2000</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29268</id>
+    <code>2058553177</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RP-4/5SC1300 1,2V 1300mAh Ni-Cd ipari rúd akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>RP</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RP-4-5SC1300</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1300mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29269</id>
+    <code>2058553178</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RP-SC3000 1,2V 3000mAh Ni-Mh ipari rúd akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>RP</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>RP-SC3000</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>3000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29270</id>
+    <code>2058553062</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BR1225-BN 3 V lítium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>BR1225BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>48mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29271</id>
+    <code>2058553063</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR1620-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR1620-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>75mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29272</id>
+    <code>2058553097</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VRE1/2AA 1,2V 350mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>SAFT-Arts Energy</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VRE1-2AA</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>350mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29273</id>
+    <code>2058553098</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VRE1/2D 1,2V 2550mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>SAFT-Arts Energy</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VRE1-2D</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2550mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29274</id>
+    <code>2058553099</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Saft VRECS1300 1,2V 1450mAh Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Saft</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SAFT-VRECS1300</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1450mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29275</id>
+    <code>2058553165</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Tadiran SL2770/P 3,6V 8,5Ah C ipari lithium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / LS - SL 3,6V elemek</productcategory>
+    <manufacturer>Tadiran</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>SL2770-P</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>8,5Ah</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>15</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29276</id>
+    <code>2058553237</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCELL 1/2AA Ni-Mh 600mAh ipari akkumulátor cella</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL_1-2AANIMH</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1.2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>600mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29277</id>
+    <code>2058553236</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCELL-4/5A NIMH ipari akkumulátor cella</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL-4-5ANIMH</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2200mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29278</id>
+    <code>2058553235</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-CRAA-SLF lítium elem 1-1 tű</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-CRAA-SLF</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29279</id>
+    <code>2058553234</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-CP300H NiMh gombakkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-CP300H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>280mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29280</id>
+    <code>2058553233</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCELL-X9000D NiMh akkumulátor D</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL-X9000D</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>9000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29281</id>
+    <code>2058553232</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCELL-X500NH XCELL-X500NH NiMh akku N</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL-X500NH</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>5000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29282</id>
+    <code>2058553231</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCELL-8500D XCELL-8500mAh NiMh akku D</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL-8500D</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>8500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29283</id>
+    <code>2058553230</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCELL_4-5SCNIMH XCELL_X4/5SC 2200 NiMh akku</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL_4-5SCNIMH</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2200mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29284</id>
+    <code>2058553229</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-V80H NiMh gombakkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-V80H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>70mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29285</id>
+    <code>2058553228</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-V6HR V 6 HR Ni Mh gombakkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-V6HR</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>6mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29286</id>
+    <code>2058553227</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-V40H NiMh gombakkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-V40H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>40mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29287</id>
+    <code>2058553226</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-V350H NiMh gombakkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-V350H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>350mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29288</id>
+    <code>2058553225</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta VAR-V250H NiMh gombakkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-V250H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>240mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29289</id>
+    <code>2058553224</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta 4V150H NiMh gombakkupakk</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-4V150H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>4,8V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29290</id>
+    <code>2058553223</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta 3V18H NiMh gombakkupakk</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-3V18H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29291</id>
+    <code>2058553222</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta 3V350H NiMh gombakkupakk</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-3V350H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,6V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29292</id>
+    <code>2058553221</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta 2V150H NiMh gombakkupakk</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Ni-MH gombakkumulátorok</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-2V150H</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>2,4V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>23</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29293</id>
+    <code>2058553220</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>MOLICEL MOLI-IBR26700A LiIon akku</name>
+    <barcode />
+    <productcategory>Ipari Akku Cellák / Ipari cellák</productcategory>
+    <manufacturer>Molicel</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>MOLI-IBR26700A</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,7V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2800mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>25</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29294</id>
+    <code>2058553219</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung ICR18650-32A ICR18650-32A LiIon akku</name>
+    <barcode />
+    <productcategory>Ipari Akku Cellák / Ipari cellák</productcategory>
+    <manufacturer>Samsung</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>ICR18650-32A</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,7V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>3200mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>25</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29295</id>
+    <code>2058553218</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung ICR18650-26F Litium Ion akkumulátor cella</name>
+    <barcode />
+    <productcategory>Ipari Akku Cellák / Ipari cellák</productcategory>
+    <manufacturer>Samsung</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>ICR18650-26F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,7V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2600mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>25</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29296</id>
+    <code>2058553217</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung INR18650-15L 3,7V 1500mAh 18A ipari rúd akkumulátor cella</name>
+    <barcode />
+    <productcategory>Ipari Akku Cellák / Ipari cellák</productcategory>
+    <manufacturer>Samsung</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>INR18650-15L</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,7V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>25</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29297</id>
+    <code>2058553216</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VL2330VCN vanádium-lítium gombakku</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Lítium gombakkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VL2330VCN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>50mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>21</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29298</id>
+    <code>2058553215</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VL2320HFN vanádium-lítium gombakku</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Lítium gombakkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VL2320HFN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>30mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>21</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29299</id>
+    <code>2058553213</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic NCR18650A LiIon akku</name>
+    <barcode />
+    <productcategory>Ipari Akku Cellák / Ipari cellák</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>NCR18650A</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3,7V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2950mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>25</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29300</id>
+    <code>2058553212</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic ML621S tölthető gomb akku</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Lítium gombakkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>ML621S</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>5mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>21</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29301</id>
+    <code>2058553211</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR3032-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR3032-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29302</id>
+    <code>2058553210</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2477-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2477-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29303</id>
+    <code>2058553209</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2450-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2450-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>620mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29304</id>
+    <code>2058553208</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2330-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2330-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>265mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29305</id>
+    <code>2058553197</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK CR17450E-R lítium elem nagyáramú</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR17450E-R</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29306</id>
+    <code>2058553198</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK HR4-3FAU NiMh akku 4/3FAU 4500 mAh</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>HR4-3FAU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>4500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29307</id>
+    <code>2058553199</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic BK-250A 1,2V 2450mAh NiMh akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>BK-250A</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2450mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29308</id>
+    <code>2058553200</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR1616-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR1616-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>55mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29309</id>
+    <code>2058553201</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR1632-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR1632-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>140mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29310</id>
+    <code>2058553202</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2016-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2016-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>90mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29311</id>
+    <code>2058553203</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2032-BN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2032-BN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>220mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29312</id>
+    <code>2058553204</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2032-GSN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2032-GSN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>220mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29313</id>
+    <code>2058553205</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2032-GUN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2032-GUN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>220mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29314</id>
+    <code>2058553206</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2032-HFN lítium gombelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2032-HFN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>220mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29315</id>
+    <code>2058553207</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CR2032-VCEN 3 V forrfüles lítium elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V gombelemek</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR2032-VCN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>220mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>17</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29316</id>
+    <code>2058553048</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>XCell CR435 3 V 50 mAh ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>XCell</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>XCELL-CR435</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>50mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29317</id>
+    <code>2058553049</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK CR12600SE litiumelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR12600SE</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1500mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29318</id>
+    <code>2058553050</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK CR1-3N 3 V 1600 mAh 1/3N méretű ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR1-3N</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1600mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29319</id>
+    <code>2058553051</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK CR14250SE litiumelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR14250SE</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>850mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29320</id>
+    <code>2058553052</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>FDK CR14250SE-FT1 litiumelem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>FDK</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>CR14250SE-FT1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>850mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29321</id>
+    <code>2058553053</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta CR2-3AA-CD 3 V 1350 mAh 2/3AA méretű ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-CR2-3AA-CD</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1350mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29322</id>
+    <code>2058553054</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta CR2-3AA-SLF 3 V 1350 mAh 2/3AA méretű ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-CR2-3AA-SLF</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>1350mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29323</id>
+    <code>2058553055</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Varta CR-AA 3 V AA méretű ipari elem</name>
+    <barcode />
+    <productcategory>Líthium Elemek / CR - BR 3V rúdelemek</productcategory>
+    <manufacturer>Varta</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VAR-CR-AA</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>2000mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>16</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29324</id>
+    <code>2058553089</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic KR7000F 1,2V 7000mAh F Ni-Cd ipari akkumulátor</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / NiMH NiCd akkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>KR7000F</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>1,2V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>7700mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>22</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29325</id>
+    <code>2058553072</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VL2320VCN 3 V forrfüles tölthető lítium gombakku</name>
+    <barcode />
+    <productcategory>Ipari akkumulátorok / Lítium gombakkumulátorok</productcategory>
+    <manufacturer>Panasonic</manufacturer>
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Cikkszám</name>
+        <value>VL2320VCN</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Feszültség</name>
+        <value>3V</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+      <productattribute>
+        <name>Kapacitás</name>
+        <value>30mAh</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>21</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>29327</id>
+    <code>48553T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>26,4V LiFePo4 akkupakk 7,5Ah</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>46</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+</Products>

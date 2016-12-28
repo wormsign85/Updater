@@ -1,0 +1,31 @@
+[23-Mar-2015 12:36:04 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 157 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25
+[23-Mar-2015 12:36:05 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php:51
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(51): SimpleXMLElement->__construct('')
+#1 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(157): get_orders_unas(Object(SoapClient), Array, Array, 'akku')
+#2 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 51
+[23-Mar-2015 12:37:19 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 157 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25
+[23-Mar-2015 12:37:19 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php:51
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(51): SimpleXMLElement->__construct('')
+#1 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(157): get_orders_unas(Object(SoapClient), Array, Array, 'akku')
+#2 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 51
+[23-Mar-2015 12:39:10 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 157 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25
+[23-Mar-2015 12:39:10 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php:51
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(51): SimpleXMLElement->__construct('')
+#1 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(157): get_orders_unas(Object(SoapClient), Array, Array, 'mitsubishi')
+#2 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 51
+[23-Mar-2015 12:42:25 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 157 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25
+[23-Mar-2015 12:42:26 CET] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php:51
+Stack trace:
+#0 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(51): SimpleXMLElement->__construct('')
+#1 /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php(157): get_orders_unas(Object(SoapClient), Array, Array, 'mitsubishi')
+#2 {main}
+  thrown in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 51
+[23-Mar-2015 12:46:27 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 164 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25
+[23-Mar-2015 12:47:20 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 164 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25
+[23-Mar-2015 13:42:05 CET] PHP Warning:  Missing argument 5 for get_orders_unas(), called in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 164 and defined in /home/-www/wormsign.hu/htdocs/kereso/update/kapac-teszt/order_xml_to_axapta_test_sku.php on line 25

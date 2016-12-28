@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductPrices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductPrice>
+    <product>28969</product>
+    <productcode>2058553189</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2950.3937</value>
+    </price>
+  </ProductPrice>
+</ProductPrices>

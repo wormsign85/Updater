@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Projects>
+    <Project Id="123456">
+        <Name>Példa adatlap neve</Name>
+        <StatusId>Folyamatban</StatusId>
+        <UserId>Király Attila</UserId>
+        <CategoryId>18</CategoryId>
+        <Business>
+            <Name>Kapacitás Kft.</Name>
+            <Url>http://minicrm-test.local/</Url>
+            <Description>Megjegyzéééééés</Description>
+            <Industry>Gyártás</Industry>
+            <Region>Nyugat-Dunántúl</Region>
+            <Employees>268</Employees>
+            <YearlyRevenue>12</YearlyRevenue>
+            <VatNumber>123456-12-34</VatNumber>
+            <RegistrationNumber>6666-66-666666</RegistrationNumber>
+            <BankAccount>34255345-44325543-15485245</BankAccount>
+            <Swift>34-45432345-342345345-2</Swift>
+            <Emails>
+                <Email><Value>cegnev@mc.local</Value><Type>home</Type><Default>0</Default></Email>
+                <Email><Value>Officecegnev@mc.local</Value><Type>office</Type><Default>1</Default></Email>
+            </Emails>
+            <Phones>
+                <Phone><Value>+36204521544</Value><Type>office</Type><Default>1</Default></Phone>
+                <Phone><Value>+36 (20) 452-1511</Value><Type>home</Type><Default>0</Default></Phone>
+            </Phones>
+            <Addresses>
+                <Address><PostalCode>1138</PostalCode><City>Budapest</City><Address>Faludi u. 3.</Address><Type>Székhely</Type></Address>
+                <Address><PostalCode>9011</PostalCode><City>Gy&#337;r</City><Address>B&#369;r&#337;kési út 42.</Address><Type>Bolt</Type></Address>
+            </Addresses>
+        </Business>
+        <Contacts>
+            <Contact>
+                <FirstName>Varga</FirstName>
+                <LastName>Zsigmond</LastName>
+                <Position>Cégvezet&#337;</Position>
+                <Emails>
+                    <Email><Value>kontaktA@mc.local</Value></Email>
+                </Emails>
+                <Phones>
+                    <Phone><Value>+36304521544</Value></Phone>
+                    <Phone><Value>+36 (30) 452-1511</Value></Phone>
+                </Phones>
+            </Contact>
+            <Contact>
+                <FirstName>Keresztnév2</FirstName>
+                <LastName>Vezetéknév2</LastName>
+                <Position>Asszisztens</Position>
+                <Emails>
+                    <Email><Value>OfficekontaktB@mc.local,kontaktB@mc.local</Value></Email>
+                </Emails>
+                <Phones>
+                    <Phone><Value>06-70-123-4567,06-70-123-4568</Value></Phone>
+                </Phones>
+            </Contact>
+        </Contacts>
+    </Project>
+</Projects>

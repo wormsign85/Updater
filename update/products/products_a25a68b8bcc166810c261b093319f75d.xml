@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>31965</id>
+    <code>2058561735</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Autós rögzítõkészlet akciókamerákhoz</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK50</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31966</id>
+    <code>2058561736</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Szörfdeszkára szerelhetõ rögzítõkészlet akciókamerákhoz</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK60</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31967</id>
+    <code>2058561737</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Felsõtesten viselhetõ heveder akciókamerákhoz</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK70</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31968</id>
+    <code>2058561738</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sisakra szerelhetõ 360°-os rögzítõkészlet akciókamerákhoz</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK80</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31969</id>
+    <code>2058561739</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Gyorscsíptetõs rögzítõkészlet akciókamerákhoz</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK90</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31970</id>
+    <code>2058561740</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Gyorscsíptetõs 360°-os rögzítõkészlet akciókamerákhoz</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK100</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31971</id>
+    <code>2058561741</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Csuklópánt-készlet akciókamerához</name>
+    <barcode />
+    <productcategory>Akció Kamera Tartozékok</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CL-ACMK110</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>52</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31972</id>
+    <code>2058561742</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Radar motion detector lamp</name>
+    <barcode />
+    <productcategory>Biztonsági és Jelzõ Fények</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>EL-PIRLA80</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>51</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31973</id>
+    <code>2058561743</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Wireless doorbell with 24 different melodies 12 V</name>
+    <barcode />
+    <productcategory>Ajtócsengõk</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>EL-WDB101</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>53</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31974</id>
+    <code>2058561744</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Wireless doorbell with 36 different melodies 220 V</name>
+    <barcode />
+    <productcategory>Ajtócsengõk</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>EL-WDB201</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>53</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31975</id>
+    <code>2058561745</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Dummy indoor dome camera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SEC-DUMMYCAM50</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31976</id>
+    <code>2058561746</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Wireless doorbell with 36 different melodies</name>
+    <barcode />
+    <productcategory>Ajtócsengõk</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>EL-WDB301</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>53</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31977</id>
+    <code>2058561747</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Wireless doorbell with 36 different melodies</name>
+    <barcode />
+    <productcategory>Ajtócsengõk</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>EL-WDB401</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>53</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31978</id>
+    <code>2058561748</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kültéri gyors dome mini álkamera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM25</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31979</id>
+    <code>2058561749</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>IR LED-es kültéri álkamera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM30</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31980</id>
+    <code>2058561750</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Napelemes kültéri álkamera. szürke</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM35</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31981</id>
+    <code>2058561751</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Beltéri álkamera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM40</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31982</id>
+    <code>2058561752</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Beltéri dome álkamera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM50</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31983</id>
+    <code>2058561753</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Beltéri álkamera villogó IR LED-del</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM60</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31984</id>
+    <code>2058561754</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kültéri dome álkamera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM65</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31985</id>
+    <code>2058561755</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kültéri álkamera beépített villogó LED-del</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM80</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31986</id>
+    <code>2058561756</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Napelemes álkamera aktív IR LED-del</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM90</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31987</id>
+    <code>2058561757</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>IR LED-es kültéri dome álkamera</name>
+    <barcode />
+    <productcategory>Álkamerák</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYCAM95</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>54</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31988</id>
+    <code>2058561758</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Riasztósziréna-utánzat – kicsi</name>
+    <barcode />
+    <productcategory>Ál Riasztó Termékek</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYFL10</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>55</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31989</id>
+    <code>2058561759</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Riasztósziréna-utánzat – nagy</name>
+    <barcode />
+    <productcategory>Ál Riasztó Termékek</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYFL20</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>55</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31990</id>
+    <code>2058561760</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Riasztórendszer-mozgásérzékelõ utánzat</name>
+    <barcode />
+    <productcategory>Ál Riasztó Termékek</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYMS10</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>55</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31991</id>
+    <code>2058561761</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>TV-szimulátor. álbiztonsági rendszer. fekete</name>
+    <barcode />
+    <productcategory>Ál Riasztó Termékek</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-DUMMYTV01</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>55</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31992</id>
+    <code>2058561762</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Bemászás elleni szalag. 450 mm. PP. barna</name>
+    <barcode />
+    <productcategory>Ál Riasztó Termékek</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-SPKS45B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>55</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31993</id>
+    <code>2058561763</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Bemászás elleni szalag. 450 mm. PP. szürke</name>
+    <barcode />
+    <productcategory>Ál Riasztó Termékek</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>SAS-SPKS45G</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>55</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31994</id>
+    <code>2058561764</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Egyoldalas sztereó modulátor</name>
+    <barcode />
+    <productcategory>Átalakítók</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>695020426</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>47</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31995</id>
+    <code>2058561765</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF switch unit for shutters 24VDC</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFJA-12B-24</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31996</id>
+    <code>2058561766</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless switch unit multi-function 1 output</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFSA-61B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31997</id>
+    <code>2058561767</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless switch unit multi-function 1 output with external button option</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFSAI-61B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31998</id>
+    <code>2058561768</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF Touch wireless remote unit surface mounting</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFTOUCH-W</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>31999</id>
+    <code>2058561769</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF Touch wireless remote unit flush mounting</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFTOUCH-B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32000</id>
+    <code>2058561770</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF keychain remote controller black</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFKEY-B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32001</id>
+    <code>2058561771</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF keychain remote controller white</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFKEY-W</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32002</id>
+    <code>2058561772</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless wall controller 2-button</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFWB-20</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32003</id>
+    <code>2058561773</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless wall controller 4-button</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFWB-40</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32004</id>
+    <code>2058561774</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless remote controller with display</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFPILOT-A</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32005</id>
+    <code>2058561775</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF switch unit for shutters 230V</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFJA-12B-230</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32006</id>
+    <code>2058561776</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless switch unit single-function 1 output</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFSA-11B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32007</id>
+    <code>2058561777</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless switch unit multi-function 2 output</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFSA-62B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32008</id>
+    <code>2058561778</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless switch unit - 1 channel</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFSA-61M</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32009</id>
+    <code>2058561779</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF wireless switch unit - 6 channels</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFSA-66M</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32010</id>
+    <code>2058561780</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>RF switch unit for outdoor use multi-function</name>
+    <barcode />
+    <productcategory>Automatizálás</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>RFUS-61</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>56</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>32021</id>
+    <code>51699T</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>9,6V Ni-Mh kamera akku felújítva</name>
+    <barcode />
+    <productcategory>Adatátvitel / Audio / USB Adatkábelek / HTC</productcategory>
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>1</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+</Products>

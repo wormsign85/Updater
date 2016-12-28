@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Projects>
+    <Project Id="27334">
+        <Name>kovacs laszlo</Namae>
+        <CategoryId>20</CategoryId>
+        <StatusId>Regisztrált</StatusId>
+        <UserId>Király Attila</UserId>
+        <Webshop_RegistrationDate>2015-10-13 12:15:13</Webshop_RegistrationDate>
+        <Webshop_Disabled/>
+        <Webshop_LostBasketContent/>
+        <Webshop_LostBasketDate/>
+        <Webshop_LostBasketValue/>
+        <Webshop_AllLostBasket/>
+        <Business>
+            <Name>kovacs laszlo</Name>
+            <Emails>
+                <Email>
+                    <Value>paposha0oco@freemail.hu</Value>
+                </Email>
+            </Emails>
+        </Business>
+        <Contacts>
+            <Contact>
+                <FirstName>kovacs laszlo</FirstName>
+                <LastName/>
+                <Emails>
+                    <Email>
+                        <Value>paposha0oco@freemail.hu</Value>
+                    </Email>
+                </Emails>
+            </Contact>
+        </Contacts>
+        <Orders>
+            <Order Id="20588-101487">
+                <Number>20588-101487</Number>
+                <CurrencyCode>HUF</CurrencyCode>
+                <Performance>2015-10-13 12:15:13</Performance>
+                <Subject/>
+                <Status>issued</Status>
+                <Customer>
+                    <Name>kovacs laszlo</Name>
+                    <CountryId>Magyarország</CountryId>
+                    <PostalCode>4338</PostalCode>
+                    <City>Papos</City>
+                    <Address>petofi ut 42</Address>
+                </Customer>
+                <Products>
+                    <Product Id="24626">
+                        <Name>Samsung GT-B2710 750 mAh utángyártott Li-ion akku</Name>
+                        <SKU>24626</SKU>
+                        <EAN/>
+                        <PriceNet>2087.4016</PriceNet>
+                        <Quantity>1</Quantity>
+                        <Unit>darab</Unit>
+                        <Unit>27%</Unit>
+                        <FolderName>Alap termék</FolderName>
+                    </Product>
+                    <Product Id="shipping-cost">
+                        <Name>Szállítási költség</Name>
+                        <SKU>shipping-cost</SKU>
+                        <EAN/>
+                        <PriceNet>1015.75</PriceNet>
+                        <Quantity>1</Quantity>
+                        <Unit>db</Unit>
+                        <Unit>27%</Unit>
+                        <FolderName>Alap termék</FolderName>
+                    </Product>
+                </Products>
+            </Order>
+        </Orders>
+    </Project>
+</Projects>

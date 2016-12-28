@@ -1,0 +1,6 @@
+sku;voltage;10hr;length_mm;length_in;width_mm;width_in;height_mm;height_in;theight_mm;theight_in;Terminal;weight_kg;weight_pund;pdf
+CLS300;2;300;173;6.8 ;111;4.4 ;330;13.0 ;364;14.3 ;F10;15.3 ;33.7 ;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CLS300.pdf
+CLS400;2;400;171;6.7 ;151;5.9 ;330;13.0 ;364;14.3 ;F10;21.0 ;46.3 ;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CLS400.pdf
+CLS500;2;500;210;8.3 ;176;6.9 ;330;13.0 ;367;14.4 ;F10;27.5 ;60.6 ;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CLS500.pdf
+CLS600;2;600;242;9.5 ;173;6.8 ;330;13.0 ;365;14.4 ;F10;32.5 ;71.6 ;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CLS600.pdf
+CLS800;2;800;302;11.9 ;175;6.9 ;330;13.0 ;367;14.4 ;F10;43.0 ;94.8 ;http://www.vision-batt.eu/sites/default/files/public/docs/products/manuals/CLS800.pdf

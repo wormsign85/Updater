@@ -1,0 +1,5403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>14120</id>
+    <code>2051406294</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Medion BP8CULXBIAP1 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIO339SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14121</id>
+    <code>2051406295</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Medion BP8CULXBIAP1 2400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIO339XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14122</id>
+    <code>2051406297</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Airis E3MIO2135211 1300 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIO168SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14123</id>
+    <code>2051406298</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Airis E3MIO2135211 1800 mAh utángyártott Li-Polymer akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIO168XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14124</id>
+    <code>2051406299</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Yakumo 20-00598-02A-EM 900 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-N30SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14125</id>
+    <code>2051406300</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Airis 20-00598-07A-CT 950 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-N35SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14126</id>
+    <code>2051406301</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Airis 20-00598-07A-CT 1600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-N35XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14127</id>
+    <code>2051406313</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman 541380530006 / BL-LP1230/11-D00001 U / 541380530005 / BP-LP1200/11-D0001 MX / G025M-AB / G025</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIOP350SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14128</id>
+    <code>2051406314</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman 541380530006 / BL-LP1230/11-D00001 U / 541380530005 / BP-LP1200/11-D0001 MX / G025M-AB / G025</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIOP350XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14129</id>
+    <code>2051406327</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman M1100 1100 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIV505SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14130</id>
+    <code>2051406328</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman 07917TSIP 720 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIS300SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14131</id>
+    <code>2051406329</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Airis E3MIO2135211 1300 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIO168SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14132</id>
+    <code>2051406330</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Airis E3MIO2135211 1800 mAh utángyártott Li-Polymer akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIO168XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14133</id>
+    <code>2051406331</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Yakumo 20-00598-02A-EM 900 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-N30SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14134</id>
+    <code>2051406332</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Yakumo 20-00598-02A-EM 1350 mAh utángyártott Li-Polymer akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-N30XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14135</id>
+    <code>2051406333</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Yakumo 4900216 1300 mAh utángyártott Li-Polymer akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-EP300SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14136</id>
+    <code>2051406348</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman 541380530006 / BL-LP1230/11-D00001 U / 541380530005 / BP-LP1200/11-D0001 MX / G025M-AB / G025</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIOP350SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14137</id>
+    <code>2051406349</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman 541380530006 / BL-LP1230/11-D00001 U / 541380530005 / BP-LP1200/11-D0001 MX / G025M-AB / G025</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MIOP350XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14138</id>
+    <code>2051406355</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Navman BP/LP1230/11/A0001U 1230 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NAV7100SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14139</id>
+    <code>2051406363</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Medion C03101TH 2200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MD400SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14140</id>
+    <code>2051406384</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>GlobalSat LIN-331 1150 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BT359SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14141</id>
+    <code>2051406441</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Magellan 980646-02 1800 mAh utángyártott Ni-MH akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-MGP750SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14142</id>
+    <code>2051406451</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Juniper/Allegro VSH-H11U 3800 mAh utángyártott Ni-MH akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-JUP11SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14143</id>
+    <code>2051406455</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>GlobalSat NTA2236 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BT388SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14144</id>
+    <code>2051406456</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>GlobalSat 61318 1350 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BT300SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14145</id>
+    <code>2051406457</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>GlobalSat 61318 1350 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BT300SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14146</id>
+    <code>2051406459</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Holux GR-230 / GR-231 GPS Receiver Battery 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-GR230SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14147</id>
+    <code>2051406460</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>GlobalSat NTA2236 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BT388SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14148</id>
+    <code>2051406462</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>i.Trek M5 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-ITM5SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14149</id>
+    <code>2051406464</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>GlobalSat NTA2236 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BT388SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14150</id>
+    <code>2051406473</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Moli/Trimble EI-D-LI1 2000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI1SL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14151</id>
+    <code>2051406474</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Moli/Trimble EI-D-LI1 2600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI1XL</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14152</id>
+    <code>20571075</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14153</id>
+    <code>20571126</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Canon NB-CP1L 1200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-CP2L</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14154</id>
+    <code>20571165</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VW-VBDR1 4000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SVBD2</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14155</id>
+    <code>20571214</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic HHR-V20 2100 mAh utángyártott Ni-MH akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDHV20</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14156</id>
+    <code>20571215</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic HHR-V40 4200 mAh utángyártott Ni-MH akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDHV40</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14157</id>
+    <code>20571217</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VW-VBD1 2000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SVBD1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14158</id>
+    <code>20571247</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14159</id>
+    <code>20571250</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L0737 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP40FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14160</id>
+    <code>20571299</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sony NB-111 2400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NB111</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14161</id>
+    <code>20571305</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14162</id>
+    <code>20571306</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S005 1150 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP70FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14163</id>
+    <code>20571309</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>JVC BN-V101 1850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP100FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14164</id>
+    <code>20571317</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14165</id>
+    <code>20571322</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nikon EN-EL10 660 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI40B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14166</id>
+    <code>20571332</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14167</id>
+    <code>20571334</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nikon EN-EL10 660 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI40B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14168</id>
+    <code>20571335</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Casio NP-150 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI50B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14170</id>
+    <code>20571348</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sharp AD-S30BT 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BP800</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14171</id>
+    <code>20571352</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-80 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP80FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14172</id>
+    <code>20571353</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-120 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP120FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14173</id>
+    <code>20571354</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Olympus Li-80B 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP900</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14174</id>
+    <code>20571355</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sony NB-111 2400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NB111</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14175</id>
+    <code>20571357</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L1674 1500 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP400</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14176</id>
+    <code>20571359</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SLB-0637 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP700</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14177</id>
+    <code>20571360</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nikon EN-EL1 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-ENEL1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14178</id>
+    <code>20571361</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Olympus Li-80B 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP900</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14179</id>
+    <code>20571363</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Olympus Li-10B 1090 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI10B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14180</id>
+    <code>20571365</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SLB-0637 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP700</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14182</id>
+    <code>20571372</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-80 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP80FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14183</id>
+    <code>20571373</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14184</id>
+    <code>20571374</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sanyo DB-L50 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-KLIC5001</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14185</id>
+    <code>20571380</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L0737 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP40FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14186</id>
+    <code>20571386</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic DMW-BC14 1500 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDS602</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14187</id>
+    <code>20571387</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S005 1150 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP70FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14188</id>
+    <code>20571388</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-80 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP80FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14189</id>
+    <code>20571389</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S006 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDS006</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14190</id>
+    <code>20571390</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic DMW-BCE10 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BCE10</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14191</id>
+    <code>20571391</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S001 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BCA7</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14192</id>
+    <code>20571394</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VW-VBD1 2000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SVBD1</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14193</id>
+    <code>20571395</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VW-VBDR1 4000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-SVBD2</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14194</id>
+    <code>20571396</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-DU06 750 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-VBD070</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14195</id>
+    <code>20571397</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VW-VBD140 1440 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-VBD140</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14196</id>
+    <code>20571398</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic VW-VBD210 2160 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-VBD210</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14197</id>
+    <code>20571399</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGR-D120 1100 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDR120</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14198</id>
+    <code>20571400</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGR-D210 2200 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDR220</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14199</id>
+    <code>20571401</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGR-D320 3300 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PDR320</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14200</id>
+    <code>20571403</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Hitachi 02491-0028-01 1250 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-PRD8330</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14201</id>
+    <code>20571404</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Olympus Li-80B 600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP900</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14202</id>
+    <code>20571405</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14203</id>
+    <code>20571406</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L0737 850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP40FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14204</id>
+    <code>20571407</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SB-L1674 1500 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP400</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14205</id>
+    <code>20571408</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Nikon EN-EL10 660 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI40B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14206</id>
+    <code>20571409</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Casio NP-150 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI50B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14207</id>
+    <code>20571410</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-120 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP120FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14208</id>
+    <code>20571411</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-50 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP50FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14210</id>
+    <code>20571413</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Sanyo DB-L80 740 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-DBL80</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14211</id>
+    <code>20571414</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Samsung SLB-0637 700 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP700</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14212</id>
+    <code>20571417</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kodak NCA-K/102 1000 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-DLI106MC</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14213</id>
+    <code>20571419</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14214</id>
+    <code>20571421</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-80 1400 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP80FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14215</id>
+    <code>20571422</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>JVC BN-V101 1850 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP100FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14216</id>
+    <code>20571423</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-120 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP120FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14218</id>
+    <code>20571425</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic DMW-BCE10 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-BCE10</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14219</id>
+    <code>20571426</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kodak KLIC-8000 1600 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-KLIC8000</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14220</id>
+    <code>20571427</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Fuji NP-95 1800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP95FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14221</id>
+    <code>20571428</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Casio NP-150 800 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-LI50B</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14222</id>
+    <code>20571429</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Kodak KLIC-7006 660 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-KLIC7006</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+  <Product>
+    <id>14223</id>
+    <code>20571430</code>
+    <suppliercode />
+    <isacc>0</isacc>
+    <accproduct />
+    <name>Panasonic CGA-S301 1050 mAh utángyártott Li-ion akku</name>
+    <barcode />
+    <manufacturer />
+    <vat>27</vat>
+    <weight />
+    <width />
+    <height />
+    <depth />
+    <qtypackage />
+    <qtylevel />
+    <qtypallet />
+    <active>1</active>
+    <quantityunit>db</quantityunit>
+    <deleted>0</deleted>
+    <guaranteemonths />
+    <bestbeforeisday>0</bestbeforeisday>
+    <bestbeforevalue />
+    <webname />
+    <webdescription />
+    <weburl />
+    <strexa />
+    <strexb />
+    <strexc />
+    <strexd />
+    <dateexa />
+    <dateexb />
+    <numexa />
+    <numexb />
+    <numexc />
+    <boolexa>0</boolexa>
+    <boolexb>0</boolexb>
+    <memoexa />
+    <memoexb />
+    <description />
+    <productattributes>
+      <productattribute>
+        <name>Gyártó cikkszám</name>
+        <value>CS-NP60FU</value>
+        <postfix />
+        <filter>0</filter>
+        <priority>0</priority>
+        <hidefromweb>0</hidefromweb>
+      </productattribute>
+    </productattributes>
+    <ProductWebGroups>
+      <ProductWebGroup>45</ProductWebGroup>
+    </ProductWebGroups>
+  </Product>
+</Products>
