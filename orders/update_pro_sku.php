@@ -18,7 +18,15 @@ function ata_mysql_query($sql, $link = null) {
     return $result;
 }*/
 
+//itt beirjuk a cameron_skut az orders_itesmbe az unasból letöltött cikkszám egyezése alapján
 
+ata_mysql_query("UPDATE wormsignh_mydb.orders_items oi
+INNER JOIN wormsignh_update.full_stock wx ON(oi.Item_sku = wx.xrefid)
+SET oi.symbol_id=wx.productcode");
+
+
+
+//itt átirjuk a speciális termékek cikkszámát a megfelelőre
 ata_mysql_query("UPDATE wormsignh_mydb.orders_items
 set symbol_id='shipping-cost'
 WHERE Item_Id='shipping-cost'");
@@ -26,16 +34,6 @@ WHERE Item_Id='shipping-cost'");
 ata_mysql_query("UPDATE wormsignh_mydb.orders_items
 set symbol_id='discount-amount'
 WHERE Item_Id='discount-amount'");
-
-ata_mysql_query("UPDATE wormsignh_mydb.orders_items oi
-INNER JOIN wormsignh_wormsign_hu.tps_webshop_new wx ON(oi.Item_sku = wx.id)
-SET oi.cameron_sku=wx.cameron_sku");
-
-ata_mysql_query("UPDATE wormsignh_mydb.orders_items oi
-INNER JOIN wormsignh_wormsign_hu.szla_id wx ON(oi.cameron_sku = wx.cameron_sku)
-SET oi.symbol_id=wx.szla_id");
-
-
 
 /*
 ata_mysql_query("UPDATE wormsignh_mydb.orders_items oi

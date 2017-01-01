@@ -40,7 +40,7 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
 
     $select_all = "SELECT * FROM wormsignh_update.full_stock "
 //            . "Where xrefid = '3030' ";
-            . "Where cameron_sku LIKE 'CS-%' AND free_stock = '0' ";
+            . "Where cameron_sku LIKE 'CS-%' AND nullakeszlet='nem' AND free_stock = '0' ";
 
 
     // header('content-type: text/xml');
@@ -74,7 +74,7 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
 //        $net = $specprices->AddChild('Net', '10000');
 //        $gross = $specprices->AddChild('Gross', '10000');
     }
-    
+
     log_unas($logfilename, 'SQL SECONDS: ' . (time() - $t));
 
     $t = time();
@@ -113,4 +113,25 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
 foreach ($config['unas_soap'] as $webshopName => $soapConfig) {
     set_price_unas($client, $config['system'], $soapConfig, $webshopName, $pdo_conn);
 }
-    
+//itt újraaktiváljuk azokat, amik készleten vannak ismét
+$ujrakeszleten = " UPDATE wormsignh_update.full_stock
+ SET nullakeszlet = 'nem'
+WHERE nullakeszlet='igen' AND free_stock != '0' ";
+
+//itt inaktiváljuk amik nincsenek készleten
+$nullakeszlet = " UPDATE wormsignh_update.full_stock
+ SET nullakeszlet = 'igen'
+WHERE nullakeszlet='nem' AND free_stock = '0' ";
+
+
+
+try {
+    $sth = $conn->prepare($ujrakeszleten);
+    $statement = $sth->execute();
+
+    $sth = $conn->prepare($nullakeszlet);
+    $statement = $sth->execute();
+} catch (Exception $e) {
+    echo $e->getMessage();
+    exit;
+}

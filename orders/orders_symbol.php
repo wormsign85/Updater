@@ -1,8 +1,9 @@
 <?php
 
 header('content-type: text/xml');
-    require_once 'update_pro_sku.php';
-$initfile = __DIR__ . '/../ujverzio/haffner/lib/init.php';
+//require_once 'update_pro_sku.php';
+
+$initfile = __DIR__ . '/../lib/init.php';
 if (file_exists($initfile)) {
     // lokális
     require_once $initfile;
@@ -11,14 +12,13 @@ if (file_exists($initfile)) {
     $pass = '';
 } else {
     // éles
-    require_once __DIR__ . '/lib/init.php';
+    require_once __DIR__ . '/../lib/init.php';
 
     $user = 'wormsignh_worm';
     $pass = 'IxOn1985';
 }
-
 try {
-    $conn = new PDO('mysql:host=localhost;dbname=wormsignh_mydb', $user, $pass);
+    $conn = new PDO($config_db_my['connection'], $config_db_my['username'], $config_db_my['password']);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 } catch (PDOException $e) {
     print "Error!: " . $e->getMessage() . "<br/>";
@@ -30,7 +30,7 @@ $sql1 = "set names 'utf8'";
 $sth = $conn->prepare($sql1);
 $statement = $sth->execute();
 
-$sql = "SELECT * FROM `orders` WHERE symbol_status='0'";
+$sql = "SELECT * FROM wormsignh_mydb.orders WHERE symbol_status='0'";
 $sth = $conn->prepare($sql);
 $statement = $sth->execute();
 $orders = $sth->fetchAll();
@@ -40,26 +40,28 @@ $customerorders = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8" ?><
 /* $sql_status = " UPDATE orders SET symbol_status"
   . " VALUES :symbol_status"; */
 
-$sql_id = 'SELECT unas_id FROM `customer` WHERE email=:email';
-$sql_order_item = 'SELECT * FROM `orders_items` WHERE order_id=:order_id';
+//$sql_id = 'SELECT unas_id FROM wormsignh_atvetel.customer WHERE email_address=:email';
+$sql_id = 'SELECT * FROM wormsignh_atvetel.customer WHERE email_address=:email';
+$sql_order_item = 'SELECT * FROM wormsignh_mydb.orders_items WHERE order_id=:order_id';
 
 foreach ($orders as $i => $row) {
     $sth = $conn->prepare($sql_id);
     $sth->bindParam(':email', $row['customer_email']);
     $sth->execute();
-    $customer_id = $result = $sth->fetchColumn();
-
+    $customer_id = $result = $sth->fetch(PDO::FETCH_ASSOC);
+    
     $sth = $conn->prepare($sql_order_item);
     $sth->bindParam(':order_id', $row['order_id']);
     $sth->execute();
     $order_items = $result = $sth->fetchAll();
+
     $customerorder = $customerorders->addChild('customerorder');
     $date = $customerorder->addChild('date', $row['date']);
     $expriationdays = $customerorder->addChild('expirationdays', '10');
     $orderid = $customerorder->addChild('orderid', $row['order_id']);
-    $customer = $customerorder->addChild('customer', $customer_id);
+    $customer = $customerorder->addChild('customer', $customer_id['unas_id']);
     $customerid = $customerorder->addChild('customerid');
-    $customercode = $customerorder->addChild('customercode');
+    $customercode = $customerorder->addChild('customercode', $customer_id['code']);
     $country = $customerorder->addChild('country', $row['invoice_country']);
     $region = $customerorder->addChild('region', $row['invoice_county']);
     $zip = $customerorder->addChild('zip', $row['invoice_zip']);
@@ -82,9 +84,9 @@ foreach ($orders as $i => $row) {
     $paymentmethod = $customerorder->addChild('paymentmethod', $row['payment_name']);
     $paymentmethodtolerance = $customerorder->addChild('paymentmethodtolerance', '8');
     $comment = $customerorder->addChild('comment');
-    $feedbackurl = $customerorder->addChild('feedbackurl', 'http://kereso.wormsign.hu/update/symbol/feedbackurl.php?id='
+    $feedbackurl = $customerorder->addChild('feedbackurl', 'http://update.wormsign.hu/orders/feedbackurl.php?id='
             . $row['order_id'] . '&amp;text=');
-    $errorurl = $customerorder->addChild('errorurl', 'http://kereso.wormsign.hu/update/symbol/order_error.php?errorid='
+    $errorurl = $customerorder->addChild('errorurl', 'http://update.wormsign.hu/orders/order_error.php?errorid='
             . $row['order_id'] . '&amp;text=');
     foreach ($order_items as $i2 => $order_item_row) {
         $detail = $customerorder->addChild('detail');
@@ -109,11 +111,19 @@ foreach ($orders as $i => $row) {
 //echo $customerorders->asXML();
 //Wormsign átvételek adatai innen következnek
 
-$result = ata_mysql_query("
+$gyartas = ("
 UPDATE wormsignh_atvetel.battery pp
 INNER JOIN wormsignh_atvetel.felujitas_symbol w ON(pp.capacity=w.kod)
 SET pp.gyartando =w.gyartando
   ");
+
+try {
+    $sth = $conn->prepare($gyartas);
+    $statement = $sth->execute();
+} catch (Exception $e) {
+    echo $e->getMessage();
+    exit;
+}
 
 $sql1 = "set names 'utf8'";
 $sth = $conn->prepare($sql1);
@@ -184,9 +194,9 @@ foreach ($orders as $i => $orderingrow) {
     $paymentmethod = $customerorder->addChild('paymentmethod', strtr($orderingrow['payment_method'], $convpayment));
     $paymentmethodtolerance = $customerorder->addChild('paymentmethodtolerance', '8');
     $comment = $customerorder->addChild('comment', $orderingrow['comment']);
-    $feedbackurl = $customerorder->addChild('feedbackurl', 'http://kereso.wormsign.hu/update/symbol/feedbackurl.php?id='
+    $feedbackurl = $customerorder->addChild('feedbackurl', 'http://update.wormsign.hu/orders/feedbackurl.php?id='
             . $orderingrow['generated_id'] . '&amp;text=');
-    $errorurl = $customerorder->addChild('errorurl', 'http://kereso.wormsign.hu/update/symbol/order_error.php?errorid='
+    $errorurl = $customerorder->addChild('errorurl', 'http://update.wormsign.hu/orders/order_error.php?errorid='
             . $orderingrow['generated_id'] . '&amp;text=');
     foreach ($order_items as $i2 => $order_item_row) {
         $detail = $customerorder->addChild('detail');
@@ -215,11 +225,22 @@ echo $customerorders->asXML();
 
 file_put_contents('orders.xml', $customerorders->asXML());
 
+$downloaded = " UPDATE wormsignh_mydb.orders 
+SET symbol_status='1' ";
 
-$result = ata_mysql_query("UPDATE wormsignh_mydb.orders 
-SET symbol_status='1'
-       ");
+$status = " UPDATE wormsignh_atvetel.ordering 
+SET status='3' WHERE status = '4' ";
 
-$result = ata_mysql_query("UPDATE wormsignh_atvetel.ordering 
-SET status='3' WHERE status = '4'
-       ");
+try {
+    $sth = $conn->prepare($downloaded);
+    $statement = $sth->execute();
+
+    $sth = $conn->prepare($status);
+    $statement = $sth->execute();
+} catch (Exception $e) {
+    echo $e->getMessage();
+    exit;
+}
+
+
+
