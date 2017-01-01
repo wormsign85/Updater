@@ -91,7 +91,6 @@ $vasarlok = new SimpleXMLElement('<?xml version="1.0" encoding="UTF-8" ?><Custom
 //    $lookupexc = $customer->addChild('lookupexc');
 //    $lookupexd = $customer->addChild('lookupexd');
 //}
-
 //Ez az átvételi oldalból jött vevők listája
 
 
@@ -106,7 +105,11 @@ foreach ($customers as $i => $row) {
             . $row['id'] . '&amp;text=');
     $errorurl = $customer->addChild('errorurl', 'http://update.wormsign.hu/customers/customer_error.php?errorid='
             . $row['id'] . '&amp;text=');
-    $id = $customer->addChild('id', $row['id']);
+    if ($row['unas_id']) {
+        $id = $customer->addChild('id', $row['unas_id']);
+    } else {
+        $id = $customer->addChild('id', $row['id']);
+    }
     $sid = $customer->addChild('sid', $row['sid']);
     $code = $customer->addChild('code', $row['code']);
     $customer->name = $row['customer_name'];
