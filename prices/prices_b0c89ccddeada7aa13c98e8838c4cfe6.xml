@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductPrices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductPrice>
+    <product>3923</product>
+    <productcode>2051407650</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4952.7559</value>
+    </price>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3456.6929</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2353</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3924</product>
+    <productcode>2051407651</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4716.5354</value>
+    </price>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5110.2362</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2786</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3925</product>
+    <productcode>2051407652</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3141.7322</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1481.37</value>
+    </price>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4480.3149</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3926</product>
+    <productcode>2051407653</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3141.7322</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1481.37</value>
+    </price>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4480.3149</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3927</product>
+    <productcode>2051407654</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3929.1338</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1826.22</value>
+    </price>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5503.937</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3928</product>
+    <productcode>2051407655</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5503.937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3033.195</value>
+    </price>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7866.1417</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3929</product>
+    <productcode>5282T</productcode>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4743</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3930</product>
+    <productcode>5304T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3500</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1335</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2500</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3931</product>
+    <productcode>5335T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5880</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4410</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4527.6</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3932</product>
+    <productcode>5336T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>15680</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>12544</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>12544</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3933</product>
+    <productcode>5337T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>19600</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14700</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>15092</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3934</product>
+    <productcode>5338T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>19600</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14700</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>15092</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3935</product>
+    <productcode>5339T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11760</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>8820</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9055.2</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3936</product>
+    <productcode>5340T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>40000</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>30000</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>30800</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3937</product>
+    <productcode>5342T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7840</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6272</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6272</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3938</product>
+    <productcode>5343T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9800</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7350</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7546</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3939</product>
+    <productcode>5344T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3000</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2250</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2310</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3940</product>
+    <productcode>5345T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5000</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3750</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3941</product>
+    <productcode>5346T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>17520</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>13140</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>13490.4</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3942</product>
+    <productcode>5347T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>23544</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>17658</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>18128.88</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3943</product>
+    <productcode>5348T</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>29843</value>
+    </price>
+    <price>
+      <pricecategory>22</pricecategory>
+      <pricecategoryName>Szdepo webshop ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>22382.25</value>
+    </price>
+    <price>
+      <pricecategory>23</pricecategory>
+      <pricecategoryName>Szdepo alap ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>22979.11</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3944</product>
+    <productcode>3310049</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3945</product>
+    <productcode>3310043</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3946</product>
+    <productcode>3310044</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3947</product>
+    <productcode>3310048</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3948</product>
+    <productcode>2058523701</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3949</product>
+    <productcode>3310021</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3950</product>
+    <productcode>20565568</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3951</product>
+    <productcode>1675T</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3952</product>
+    <productcode>1677T</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3953</product>
+    <productcode>3310022</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3954</product>
+    <productcode>3310023</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3955</product>
+    <productcode>3310024</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3956</product>
+    <productcode>3310025</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3957</product>
+    <productcode>3310026</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3958</product>
+    <productcode>1141</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3959</product>
+    <productcode>1142</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3960</product>
+    <productcode>3310036</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3961</product>
+    <productcode>20564078</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3962</product>
+    <productcode>5010040</productcode>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1000</value>
+    </price>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3963</product>
+    <productcode>205653850</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3964</product>
+    <productcode>33100271</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3965</product>
+    <productcode>33100272</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3966</product>
+    <productcode>1000740</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3967</product>
+    <productcode>20566988</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3968</product>
+    <productcode>205653898</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3969</product>
+    <productcode>4013222</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3970</product>
+    <productcode>3310020</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3971</product>
+    <productcode>4013224</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3972</product>
+    <productcode>3310012</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3973</product>
+    <productcode>205653856</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3974</product>
+    <productcode>3310014</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3975</product>
+    <productcode>2057522902</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3976</product>
+    <productcode>1000535</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3977</product>
+    <productcode>205654344</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3978</product>
+    <productcode>205654029</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3979</product>
+    <productcode>2057522903</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3980</product>
+    <productcode>3310050</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3981</product>
+    <productcode>3310011</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3982</product>
+    <productcode>3310013</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3983</product>
+    <productcode>3310052</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1000</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3984</product>
+    <productcode>4013174</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3985</product>
+    <productcode>20566985</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3986</product>
+    <productcode>205653897</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3987</product>
+    <productcode>20567502</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3988</product>
+    <productcode>1670T</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3989</product>
+    <productcode>3310031</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3990</product>
+    <productcode>5010028</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3991</product>
+    <productcode>205654087</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3992</product>
+    <productcode>1000519</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3993</product>
+    <productcode>1000498</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3994</product>
+    <productcode>5010037</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3995</product>
+    <productcode>3310039</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3996</product>
+    <productcode>3310038</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3997</product>
+    <productcode>3310042</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3998</product>
+    <productcode>1000126</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>3999</product>
+    <productcode>3310032</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4000</product>
+    <productcode>3310033</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4001</product>
+    <productcode>3310034</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4002</product>
+    <productcode>3310040</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4003</product>
+    <productcode>20567503</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4004</product>
+    <productcode>4013200</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4005</product>
+    <productcode>3310018</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4006</product>
+    <productcode>1000229</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4007</product>
+    <productcode>3310019</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4008</product>
+    <productcode>3310027</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4009</product>
+    <productcode>3310028</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4010</product>
+    <productcode>4013149</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1000</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4011</product>
+    <productcode>4013154</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4012</product>
+    <productcode>1145</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4013</product>
+    <productcode>4013201</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4014</product>
+    <productcode>3310030</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4015</product>
+    <productcode>1000840</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4016</product>
+    <productcode>1000841</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4017</product>
+    <productcode>205654034</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4018</product>
+    <productcode>11400T</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4019</product>
+    <productcode>3310045</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4020</product>
+    <productcode>20566984</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4021</product>
+    <productcode>3310017</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>4022</product>
+    <productcode>20566983</productcode>
+    <price>
+      <pricecategory>5</pricecategory>
+      <pricecategoryName>Listaár RealPower</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1961</value>
+    </price>
+  </ProductPrice>
+</ProductPrices>
