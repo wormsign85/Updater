@@ -40,9 +40,12 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
 
     $select_all = "SELECT * FROM wormsignh_update.full_stock "
 //            . "Where xrefid = '3030' ";
-            . "Where cameron_sku LIKE 'CS-%' AND free_stock = '0' ";
+            . "Where cameron_sku LIKE 'CS-%' AND inaktivalva='nem' AND free_stock = '0'";
 
-
+//    $select_all = "SELECT * FROM wormsignh_update.full_stock "
+//            . "Where xrefid = '3030' ";
+//            . "Where cameron_sku LIKE 'CS-%' AND free_stock!= '0' ";
+    
     // header('content-type: text/xml');
     //$xml = file_get_contents('prices.xml');
 
@@ -63,18 +66,29 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
         $status = $statuses->AddChild('Status');
         $type = $status->AddChild('Type', 'base');
         $value = $status->AddChild('Value', '0');
-//        $params = $product->AddChild('Params');
-//        $param = $params->AddChild('Param');
-//        $id = $param->AddChild('Id', '23673');
-//        $type = $param->AddChild('Type', 'text');
-//        $name = $param->AddChild('Name', 'Szállítási idő');
-//        $value = $param->AddChild('Value', '4-6 hét');
+
 //        $specprices = $product->AddChild('Price');
 //        $priceType = $specprices->AddChild('Type', 'sale');
 //        $net = $specprices->AddChild('Net', '10000');
 //        $gross = $specprices->AddChild('Gross', '10000');
     }
     
+        foreach ($rows as $i => $row) {
+
+        $product = $header->AddChild('Product');
+        $noerrorst = $product->AddChild('StopOnError', 'no');
+        $sku = $product->AddChild('Sku', $row['productcode']);
+        $statuses = $product->AddChild('Statuses');
+        $status = $statuses->AddChild('Status');
+        $type = $status->AddChild('Type', 'base');
+        $value = $status->AddChild('Value', '0');
+
+//        $specprices = $product->AddChild('Price');
+//        $priceType = $specprices->AddChild('Type', 'sale');
+//        $net = $specprices->AddChild('Net', '10000');
+//        $gross = $specprices->AddChild('Gross', '10000');
+    }
+
     log_unas($logfilename, 'SQL SECONDS: ' . (time() - $t));
 
     $t = time();
@@ -113,4 +127,37 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
 foreach ($config['unas_soap'] as $webshopName => $soapConfig) {
     set_price_unas($client, $config['system'], $soapConfig, $webshopName, $pdo_conn);
 }
-    
+//itt újraaktiváljuk azokat, amik készleten vannak ismét
+$ujrakeszleten = " UPDATE wormsignh_update.full_stock
+ SET inaktivalva = 'nem'
+WHERE inaktivalva='igen' AND free_stock != '0' ";
+
+//itt inaktiváljuk amiket feltöltöttünk, vagyis inaktiváltunk unason
+$nullakeszlet = " UPDATE wormsignh_update.full_stock pp
+ SET inaktivalva = 'igen'
+WHERE inaktivalva='nem' AND free_stock = '0'";
+
+$keszletoff = " UPDATE wormsignh_update.full_stock pp
+    inner join wormsignh_wormsign_hu.tps_webshop w ON(pp.cameron_sku = w.cameron_sku)
+ SET pp.inaktivalva = w.keszlet WHERE w.keszlet='off' ";
+
+$keszletoff1 = " UPDATE wormsignh_update.full_stock pp
+    inner join wormsignh_wormsign_hu.tps_webshop_img w ON(pp.cameron_sku = w.cameron_sku)
+ SET pp.inaktivalva = w.keszlet WHERE w.keszlet='off' ";
+
+//update full_stock
+//set nullakeszlet = 'off'
+//where category LIKE '%porszívó%'
+//        gardena
+//        fogkefe
+
+try {
+    $sth = $conn->prepare($ujrakeszleten);
+    $statement = $sth->execute();
+
+    $sth = $conn->prepare($nullakeszlet);
+    $statement = $sth->execute();
+} catch (Exception $e) {
+    echo $e->getMessage();
+    exit;
+}

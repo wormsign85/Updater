@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProductPrices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductPrice>
+    <product>29716</product>
+    <productcode>2051821</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>40307.0866</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>17472</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29717</product>
+    <productcode>2051822</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14480.3149</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6289</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29718</product>
+    <productcode>2051823</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>12118.1102</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5265</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29719</product>
+    <productcode>2051824</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>26527.559</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11452</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29720</product>
+    <productcode>2051825</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7787.4015</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3396</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29721</product>
+    <productcode>2051826</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>23220.4724</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>10056</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29722</product>
+    <productcode>2051827</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>27078.7401</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11689</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29723</product>
+    <productcode>2051828</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>32826.7716</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14170</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29724</product>
+    <productcode>2051829</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>36763.7795</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>15915</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29725</product>
+    <productcode>2051830</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>13220.4724</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5833</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29726</product>
+    <productcode>2051831</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>16606.2992</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7262</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29727</product>
+    <productcode>2051832</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>12669.2913</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5545</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29728</product>
+    <productcode>2051833</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14559.0551</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6387</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29729</product>
+    <productcode>2051834</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>39125.9842</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>16847</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29730</product>
+    <productcode>2051835</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>46527.559</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>20110</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29731</product>
+    <productcode>2051836</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>57078.7401</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>24601</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29732</product>
+    <productcode>2051837</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>16055.1181</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7058</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29733</product>
+    <productcode>2051838</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>20385.8267</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>8895</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29734</product>
+    <productcode>2051839</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5031.496</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2246</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29735</product>
+    <productcode>2051840</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4637.7952</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2064</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29736</product>
+    <productcode>2051841</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1166</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29737</product>
+    <productcode>2051842</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5031.496</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2253</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29738</product>
+    <productcode>2051843</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3141.7322</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1414</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29739</product>
+    <productcode>2051844</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1162</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29740</product>
+    <productcode>2051845</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1159</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29741</product>
+    <productcode>2051846</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5818.8976</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2570</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29742</product>
+    <productcode>2051847</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5346.4566</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2346</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29743</product>
+    <productcode>2051848</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850.3937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1734</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29744</product>
+    <productcode>2051849</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4401.5748</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1938</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29745</product>
+    <productcode>2051850</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2590.5511</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1172</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29746</product>
+    <productcode>2051851</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4874.0157</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2152</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29747</product>
+    <productcode>2051852</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1150</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29748</product>
+    <productcode>2051853</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5346.4566</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2346</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29749</product>
+    <productcode>2051854</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9204.7244</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3979</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29750</product>
+    <productcode>2051855</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6291.3385</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2774</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29751</product>
+    <productcode>2051856</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9204.7244</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3979</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29752</product>
+    <productcode>2051857</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14007.874</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6021</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29753</product>
+    <productcode>2051858</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>10622.0472</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4592</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29754</product>
+    <productcode>2051859</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>12511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5408</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29755</product>
+    <productcode>2051860</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6763.7795</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2959</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29756</product>
+    <productcode>2051861</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9204.7244</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3979</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29757</product>
+    <productcode>2051862</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11566.9291</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5000</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29758</product>
+    <productcode>2051863</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11566.9291</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5000</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29759</product>
+    <productcode>2051864</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4874.0157</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2142</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29760</product>
+    <productcode>2051865</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2905.5118</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1329</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29761</product>
+    <productcode>2051866</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14007.874</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6081</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29762</product>
+    <productcode>2051867</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7708.6614</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3386</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29763</product>
+    <productcode>2051868</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>33220.4724</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>14247</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29764</product>
+    <productcode>2051869</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>24559.0551</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>10572</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29765</product>
+    <productcode>2051870</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>8732.2834</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3836</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29766</product>
+    <productcode>2051871</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>20858.2677</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9051</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29767</product>
+    <productcode>2051872</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>25740.1574</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11156</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29768</product>
+    <productcode>2051873</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>20858.2677</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9083</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29769</product>
+    <productcode>2051874</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>46370.0787</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>19934</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29770</product>
+    <productcode>2051875</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>21803.1496</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9475</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29771</product>
+    <productcode>2051876</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>28023.622</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>12128</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29772</product>
+    <productcode>2051877</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>20385.8267</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>8911</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29773</product>
+    <productcode>2051878</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>25740.1574</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>11156</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29774</product>
+    <productcode>2051879</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>23377.9527</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>10248</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29775</product>
+    <productcode>2051880</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>35503.937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>15446</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29776</product>
+    <productcode>2051881</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>17000</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7389</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29777</product>
+    <productcode>2051882</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>21803.1496</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9475</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29778</product>
+    <productcode>2051883</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3929.1338</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1743</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29779</product>
+    <productcode>2051884</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850.3937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1734</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29780</product>
+    <productcode>2051885</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850.3937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1734</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29781</product>
+    <productcode>2051886</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850.3937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1734</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29782</product>
+    <productcode>2051887</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850.3937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1734</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29783</product>
+    <productcode>2051888</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4401.5748</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1938</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29784</product>
+    <productcode>2051889</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2118.1102</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>986</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29785</product>
+    <productcode>2051890</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3692.9133</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1652</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29786</product>
+    <productcode>2051891</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>9204.7244</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3995</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29787</product>
+    <productcode>2051892</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>16448.8188</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>7135</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29788</product>
+    <productcode>2051893</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>35661.4173</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>15268</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29789</product>
+    <productcode>2051894</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>8181.1023</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3552</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29790</product>
+    <productcode>2051895</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4874.0157</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2149</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29791</product>
+    <productcode>2051896</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>64401.5748</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>27532</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29792</product>
+    <productcode>2051897</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4874.0157</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2142</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29793</product>
+    <productcode>2051898</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1960.6299</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>914</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29794</product>
+    <productcode>2051899</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3929.1338</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1747</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29795</product>
+    <productcode>2051900</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2354.3307</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1084</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29796</product>
+    <productcode>2051901</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1803.1496</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>836</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29797</product>
+    <productcode>2051902</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1803.1496</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>842</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29798</product>
+    <productcode>2051903</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3929.1338</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1740</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29799</product>
+    <productcode>2051904</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>4874.0157</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2161</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29800</product>
+    <productcode>2051905</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1960.6299</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>917</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29801</product>
+    <productcode>2051906</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>5818.8976</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2589</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29802</product>
+    <productcode>2051907</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>6763.7795</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2991</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29803</product>
+    <productcode>2051908</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1162</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29804</product>
+    <productcode>2051909</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3535.433</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1587</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29805</product>
+    <productcode>2051910</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1153</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29806</product>
+    <productcode>2051911</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3929.1338</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1747</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29807</product>
+    <productcode>2051912</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3535.433</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1590</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29808</product>
+    <productcode>2051913</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3850.3937</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1734</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29809</product>
+    <productcode>2051914</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>3929.1338</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1737</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29810</product>
+    <productcode>2051915</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2590.5511</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1172</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29811</product>
+    <productcode>2051916</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1166</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29812</product>
+    <productcode>2051917</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2511.811</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1166</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29813</product>
+    <productcode>2051918</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2275.5905</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1040</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29814</product>
+    <productcode>2051919</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2433.0708</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1118</value>
+    </price>
+  </ProductPrice>
+  <ProductPrice>
+    <product>29815</product>
+    <productcode>2051920</productcode>
+    <price>
+      <pricecategory>-1</pricecategory>
+      <pricecategoryName>Lista ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>2433.0708</value>
+    </price>
+    <price>
+      <pricecategory>-2</pricecategory>
+      <pricecategoryName>Beszerzési ár</pricecategoryName>
+      <priceCurrency>HUF</priceCurrency>
+      <quantityunit>db</quantityunit>
+      <value>1118</value>
+    </price>
+  </ProductPrice>
+</ProductPrices>

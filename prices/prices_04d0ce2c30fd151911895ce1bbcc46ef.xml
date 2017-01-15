@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscountRules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerVoucherDiscounts />
+  <PaymentMethods>
+    <PaymentMethod>
+      <PaymentMethodName>Készpénz</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Utánvéttel</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Átutalás</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Átutalás</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Átutalás</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Bankkártya</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Fizetés BARIONnal</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+    <PaymentMethod>
+      <PaymentMethodName>Bankkártyás fizetés az automatánál</PaymentMethodName>
+      <DiscountPercent>0</DiscountPercent>
+    </PaymentMethod>
+  </PaymentMethods>
+  <ProductCategoryDiscounts />
+  <ProductCustomerDiscounts />
+  <TransportModes>
+    <TransportMode>
+      <TransportModeName>Ajánlott postai levél</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>Elsőbbségi ajánlott postai levél</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>Foxpost csomagautomaták</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>GLS CsomagPontok</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>GLS futárszolgálat</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>MPL futárszolgálat</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>Oda-vissza szállítás felújítás esetén</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>PostaPont szállítási mód</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+    <TransportMode>
+      <TransportModeName>Személyes átvétel szervizünkben</TransportModeName>
+      <DiscountPercent>0</DiscountPercent>
+    </TransportMode>
+  </TransportModes>
+</DiscountRules>

@@ -1,10 +1,36 @@
 <?php
 
-require_once '../../lib/init.php';
+//egyelőre nem töltjük le a vevőket külön, csak 
+//ami a rendelésben van, majd utólag letöltjük őket és az id-jüket beírjuk db-be az email cím egyezése alapján
+//require_once '../customers/get_customers.php';
 
+$initfile = __DIR__ . '/../lib/init.php';
+if (file_exists($initfile)) {
+    // lokális
+    require_once $initfile;
+
+    $user = 'root';
+    $pass = '';
+} else {
+    // éles
+    require_once __DIR__ . '/../lib/init.php';
+
+    $user = 'wormsignh_worm';
+    $pass = 'IxOn1985';
+}
 ///////////////////////////////////////////////
 // init
-function get_orders_unas($client, $config, $config_db) {
+
+try {
+
+    $conn = new PDO($config_db_my['connection'], $config_db_my['username'], $config_db_my['password']);
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    print "Error!: " . $e->getMessage() . "<br/>";
+    die();
+}
+
+function get_orders_unas($client, $config, $config_db_my) {
     try {
         $auth = array(
             'Username' => $config['Username'],
@@ -16,7 +42,7 @@ function get_orders_unas($client, $config, $config_db) {
         $params = array(
             'InvoiceStatus' => 1,
             'InvoiceAutoSet' => 1,
-            'DateStart' => "2015.02.04.",
+            'DateStart' => "-1 day",
             'DateEnd' => "2100.12.31"
         );
         $response = $client->getOrder($auth, $params);
@@ -25,14 +51,15 @@ function get_orders_unas($client, $config, $config_db) {
         echo "<pre>" . print_r($error, true) . "</pre>";
     }
 
+    //ezt majd ki kell rakni ha biztosan jó!
     try {
-
         $conn = new PDO($config_db_my['connection'], $config_db_my['username'], $config_db_my['password']);
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     } catch (PDOException $e) {
         print "Error!: " . $e->getMessage() . "<br/>";
         die();
     }
+
     $orders = new SimpleXMLElement($response);
 
     $sqlutf = "set names 'utf8'";
@@ -63,14 +90,22 @@ function get_orders_unas($client, $config, $config_db) {
             . " :shipping_id,:shipping_name,:invoice_status,:invoice_statustext,:invoice_number)";
 
 
-    $sql_id = 'SELECT unas_id FROM `customer` WHERE email=:email';
+    $sql_id = 'SELECT unas_id FROM wormsignh_atvetel.customer WHERE email_address=:email';
 
 
     $sql1 = " INSERT IGNORE INTO orders_items (order_id,Item_Id,Item_Sku,Item_Name,Item_Unit,Item_Quantity,Item_PriceNet,Item_PriceGross,Item_Vat)"
             . " VALUES (:order_id,:Item_Id,:Item_Sku,:Item_Name,:Item_Unit,:Item_Quantity,:Item_PriceNet,:Item_PriceGross,:Item_Vat)";
 
-    $sql_customers = " INSERT IGNORE INTO customer (unas_id,name,country,region,zip,city,street,mailcountry,mailregion,mailzip,mailcity,mailstreet,email,phone)"
-            . " VALUES (:unas_id,:name,:country,:region,:zip,:city,:street,:mailcountry,:mailregion,:mailzip,:mailcity,:mailstreet,:email,:phone)";
+//    $sql_customers = " INSERT IGNORE INTO wormsignh_atvetel.customer (unas_id,customer_name,"
+//            . "country,region,zip,city,address,mailcountry,mailregion,mailzip,mailcity,mailstreet,"
+//            . "email_address,contact_phone)"
+//            . " VALUES (:unas_id,:customer_name,"
+//            . ":country,:region,:zip,:city,:address,:mailcountry,:mailregion,:mailzip,:mailcity,:mailstreet,"
+//            . ":email_address,:contact_phone)";
+    
+        $sql_customers = " INSERT IGNORE INTO wormsignh_atvetel.customer SET unas_id = :unas_id, customer_name = :customer_name,"
+            . " country = :country, region = :region, zip = :zip, city = :city ,address = :address, mailcountry =:mailcountry,mailregion = :mailregion,mailzip =:mailzip,mailcity =:mailcity,mailstreet =:mailstreet,"
+            . " email_address =:email_address, contact_phone =:contact_phone, letrehozva = NOW() ";
 
     $sql_update = " UPDATE orders"
             . " SET status=:status"
@@ -79,6 +114,7 @@ function get_orders_unas($client, $config, $config_db) {
     foreach ($orders->Order as $sorszam => $order) {
         $order_id = $order->Key;
         $date = $order->Date;
+        $customer_ids = $order->Customer->Id;
         $customer_email = $order->Customer->Email;
 
         $sth = $conn->prepare($sql_id);
@@ -117,24 +153,43 @@ function get_orders_unas($client, $config, $config_db) {
         $invoice_status = $order->Invoice->Status;
         $invoice_statustext = $order->Invoice->Statustext;
         $invoice_number = $order->Invoice->Number;
-        if (!$customer_id) {
-            $customer_id = uniqid();
+        if ($customer_ids) {
             $q1 = $conn->prepare($sql_customers);
             $q1->execute(array(
-                ':unas_id' => $customer_id,
-                ':name' => $invoice_name,
+                ':unas_id' => $customer_ids,
+                ':customer_name' => $invoice_name,
                 ':country' => $invoice_country,
                 ':region' => $invoice_county,
                 ':zip' => $invoice_zip,
                 ':city' => $invoice_city,
-                ':street' => $invoice_street,
+                ':address' => $invoice_street,
                 ':mailcountry' => $shipping_country,
                 ':mailregion' => $shipping_county,
                 ':mailzip' => $shipping_zip,
                 ':mailcity' => $shipping_city,
                 ':mailstreet' => $shipping_street,
-                ':email' => $customer_email,
-                ':phone' => $contact_phone,
+                ':email_address' => $customer_email,
+                ':contact_phone' => $contact_phone,
+            ));
+        } 
+            else {
+            $customer_id = uniqid();
+            $q1 = $conn->prepare($sql_customers);
+            $q1->execute(array(
+            ':unas_id' => $customer_id,
+            ':customer_name' => $invoice_name,
+            ':country' => $invoice_country,
+            ':region' => $invoice_county,
+            ':zip' => $invoice_zip,
+            ':city' => $invoice_city,
+            ':address' => $invoice_street,
+            ':mailcountry' => $shipping_country,
+            ':mailregion' => $shipping_county,
+            ':mailzip' => $shipping_zip,
+            ':mailcity' => $shipping_city,
+            ':mailstreet' => $shipping_street,
+            ':email_address' => $customer_email,
+            ':contact_phone' => $contact_phone,
             ));
         }
         $q = $conn->prepare($sql);
@@ -209,12 +264,48 @@ function get_orders_unas($client, $config, $config_db) {
             ':status' => $status,
         ));
     }
+    echo $orders->asXML();
+}
+
+get_orders_unas($client, $config['akkucentral'], $config_db_my);
+
+
+//itt beirjuk a cameron_skut az orders_itesmbe az unasból letöltött cikkszám egyezése alapján
+
+$sku = " UPDATE wormsignh_mydb.orders_items oi
+INNER JOIN wormsignh_update.full_stock wx ON(oi.Item_sku = wx.xrefid)
+SET oi.symbol_id=wx.productcode ";
+
+
+//itt átirjuk a speciális termékek cikkszámát a megfelelőre
+$spec = " UPDATE wormsignh_mydb.orders_items
+set symbol_id='shipping-cost'
+WHERE Item_Id='shipping-cost' ";
+
+
+$spec1 = " UPDATE wormsignh_mydb.orders_items
+set symbol_id='discount-amount'
+WHERE Item_Id='discount-amount' ";
+
+$spec2 = " UPDATE wormsignh_mydb.orders_items
+set symbol_id='discount-percent'
+WHERE Item_Id='discount-percent' ";
+
+try {
+    $sth = $conn->prepare($sku);
+    $statement = $sth->execute();
+
+    $sth = $conn->prepare($spec);
+    $statement = $sth->execute();
+
+    $sth = $conn->prepare($spec1);
+    $statement = $sth->execute();
+
+    $sth = $conn->prepare($spec2);
+    $statement = $sth->execute();
+} catch (Exception $e) {
+    echo $e->getMessage();
+    exit;
 }
 
 
-get_orders_unas($client, $config['akkucentral'], $config_db);
-//get_orders_unas($client, $config['akkutkeresek'], $config_db);
-
-
-require_once 'update_pro_sku.php';
-//require_once 'order_xml_to_crm.php';
