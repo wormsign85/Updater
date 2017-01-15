@@ -38,14 +38,13 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
     $logfilename = $systemConfig['log_dir'] . '/' . $webshopName . '_' . $soapConfig['ShopId'];
 
 
-    $select_all = "SELECT * FROM wormsignh_update.full_stock "
+    $select_all = "SELECT * FROM wormsignh_wormsign_hu.tps_webshop "
 //            . "Where xrefid = '3030' ";
-            . "Where cameron_sku LIKE 'CS-%' AND inaktivalva='nem' AND free_stock = '0'";
+            . "Where category = '3231' ";
 
 //    $select_all = "SELECT * FROM wormsignh_update.full_stock "
 //            . "Where xrefid = '3030' ";
 //            . "Where cameron_sku LIKE 'CS-%' AND free_stock!= '0' ";
-    
     // header('content-type: text/xml');
     //$xml = file_get_contents('prices.xml');
 
@@ -61,33 +60,32 @@ function set_price_unas($client, $systemConfig, $soapConfig, $webshopName, $pdo_
 
         $product = $header->AddChild('Product');
         $noerrorst = $product->AddChild('StopOnError', 'no');
-        $sku = $product->AddChild('Sku', $row['xrefid']);
+        $sku = $product->AddChild('Sku', $row['id']);
         $statuses = $product->AddChild('Statuses');
         $status = $statuses->AddChild('Status');
         $type = $status->AddChild('Type', 'base');
-        $value = $status->AddChild('Value', '0');
-
+        $value = $status->AddChild('Value', '1');
+        $prices = $product->AddChild('Prices');
+        $price = $prices->AddChild('Price');
+        $priceType = $price->AddChild('Type', 'normal');
+        $net = $price->AddChild('Net', $row['ar'] / 1.27);
+        $gross = $price->AddChild('Gross', $row['ar']);
+    }
+//    
+//        foreach ($rows as $i => $row) {
+//
+//        $product = $header->AddChild('Product');
+//        $noerrorst = $product->AddChild('StopOnError', 'no');
+//        $sku = $product->AddChild('Sku', $row['productcode']);
+//        $statuses = $product->AddChild('Statuses');
+//        $status = $statuses->AddChild('Status');
+//        $type = $status->AddChild('Type', 'base');
+//        $value = $status->AddChild('Value', '0');
 //        $specprices = $product->AddChild('Price');
 //        $priceType = $specprices->AddChild('Type', 'sale');
 //        $net = $specprices->AddChild('Net', '10000');
 //        $gross = $specprices->AddChild('Gross', '10000');
-    }
-    
-        foreach ($rows as $i => $row) {
-
-        $product = $header->AddChild('Product');
-        $noerrorst = $product->AddChild('StopOnError', 'no');
-        $sku = $product->AddChild('Sku', $row['productcode']);
-        $statuses = $product->AddChild('Statuses');
-        $status = $statuses->AddChild('Status');
-        $type = $status->AddChild('Type', 'base');
-        $value = $status->AddChild('Value', '0');
-
-//        $specprices = $product->AddChild('Price');
-//        $priceType = $specprices->AddChild('Type', 'sale');
-//        $net = $specprices->AddChild('Net', '10000');
-//        $gross = $specprices->AddChild('Gross', '10000');
-    }
+//    }
 
     log_unas($logfilename, 'SQL SECONDS: ' . (time() - $t));
 
